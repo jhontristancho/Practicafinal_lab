@@ -1,7 +1,7 @@
 #include "Simulador.h"
 
 int main() {
-    // Caja un poco más pequeña para que haya más choques visibles
+    //  Caja un poco más pequeña para que haya más choques visibles
     Simulador sim(500, 350, 0.6); // coef. restitución 0.6
 
     // --- Partículas bien espaciadas (trayectorias parabólicas limpias) ---
