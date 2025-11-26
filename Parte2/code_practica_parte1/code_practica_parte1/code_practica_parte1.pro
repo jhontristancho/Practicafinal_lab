@@ -1,3 +1,5 @@
+QT += core gui widgets multimedia
+
 QT += widgets
 CONFIG += c++17
 
@@ -20,3 +22,13 @@ HEADERS += \
 
 # Añade esto si usas Windows y necesitas el subsystem console para ver cout
 # CONFIG += console
+
+RESOURCES += \
+    multimedia.qrc
+
+
+
+
+
+
+

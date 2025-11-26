@@ -9,7 +9,7 @@ class Simulador {
 public:
     double ancho, alto;   // tamaño del área en unidades lógicas
     double c;             // coeficiente de restitución para obstaculos
-    double K_dano;        // constante para calcular daño = K * momento
+    double K_dano;
 
     std::vector<Particula> particulas;
     std::vector<Obstaculo> obstaculos;
