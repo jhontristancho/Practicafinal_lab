@@ -57,13 +57,12 @@ GameWidget::GameWidget(QWidget *parent)
     cannonLTexture.load(":/imagenes/multimedia/imagenes/canon2.png");
     projectileTexture.load(":/imagenes/multimedia/imagenes/bala.png");
 
-    double cannonOffsetY = 20.0;  // cuánto por encima del techo
+    double cannonOffsetY = 20.0;
     cannon1Y = topY - cannonOffsetY;
     cannon2Y = cannon1Y;
 
-    cannon1X = leftTopX - 25.0;          // un poco a la izquierda de la casita
-    cannon2X = rightTopX + topSize + 25.0; // un poco a la derecha de la casita
-
+    cannon1X = leftTopX - 25.0;
+    cannon2X = rightTopX + topSize + 25.0;
 
 }
 
@@ -239,9 +238,8 @@ void GameWidget::paintEvent(QPaintEvent *) {
     double vx0 = velocidad * std::cos(angRad) * dir;
     double vy0 = -velocidad * std::sin(angRad);
 
-    // Dibuja los puntos (Arco amarillo)
-    painter.setBrush(Qt::yellow);
-    painter.setPen(Qt::yellow);
+    painter.setBrush(Qt::red);
+    painter.setPen(Qt::red);
 
 
     for (double t = 0.0; t < 2.0; t += 0.02) {
@@ -275,11 +273,11 @@ void GameWidget::paintEvent(QPaintEvent *) {
     painter.setPen(Qt::NoPen);
     painter.setBrush(Qt::NoBrush);
 
-    double cannonSize = 95.0;  // en unidades del mundo<
+    double cannonSize = 95.0;
     double cannonWidth = cannonSize * S;
     double cannonHeight = cannonSize * S;
 
-    // 1. Cañón del Jugador 1 (Usa la textura derecha)
+
     QRectF c1((cannon1X - cannonSize/2) * S,
               (cannon1Y - cannonSize/2) * S,
               cannonWidth, cannonHeight);
@@ -287,7 +285,6 @@ void GameWidget::paintEvent(QPaintEvent *) {
     painter.drawPixmap(c1.toRect(), cannonRTexture);
 
 
-    // 2. Cañón del Jugador 2 (Usa la textura izquierda)
     QRectF c2((cannon2X - cannonSize/2) * S,
               (cannon2Y - cannonSize/2) * S,
               cannonWidth, cannonHeight);

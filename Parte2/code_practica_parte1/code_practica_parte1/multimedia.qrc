@@ -6,5 +6,7 @@
         <file>multimedia/imagenes/canon1.png</file>
         <file>multimedia/imagenes/bala.png</file>
     </qresource>
-    <qresource prefix="/sonido"/>
+    <qresource prefix="/sonido">
+        <file>multimedia/audio/accion_guerramp3.mp3</file>
+    </qresource>
 </RCC>

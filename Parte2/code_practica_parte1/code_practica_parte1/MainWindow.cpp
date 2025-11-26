@@ -63,7 +63,6 @@ MainWindow::MainWindow(QWidget *parent)
 }
 
 
-
 void MainWindow::onGameEnded(int winnerPlayer) {
     btnFire->setEnabled(false);
 
@@ -86,14 +85,15 @@ void MainWindow::onGameEnded(int winnerPlayer) {
     }
 }
 
+
 void MainWindow::resetGame() {
 
     currentPlayer = 1;
     turno = 1;
 
     // Actualizar
-    lblPlayer->setText("Current Player: 1");
-    lblTurno->setText("Turn: 1");
+    lblPlayer->setText("Turno del jugador: 1");
+    lblTurno->setText("Turno: 1");
     btnFire->setEnabled(true);
     game->reiniciarSimulacion();
 }
@@ -120,7 +120,5 @@ void MainWindow::onShotParameterChanged() {
     // 1. Obtiene los valores actuales
     double angle = spinAngle->value();
     double speed = spinSpeed->value();
-
-    // 2. Llama al setter en GameWidget para actualizar la trayectoria
     game->setShotParameters(angle, speed, currentPlayer);
 }

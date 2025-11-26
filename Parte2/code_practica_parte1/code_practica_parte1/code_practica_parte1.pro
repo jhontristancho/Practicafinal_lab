@@ -1,3 +1,5 @@
+QT += core gui widgets multimedia
+
 QT += widgets
 CONFIG += c++17
 
@@ -23,4 +25,10 @@ HEADERS += \
 
 RESOURCES += \
     multimedia.qrc
+
+
+
+
+
+
 

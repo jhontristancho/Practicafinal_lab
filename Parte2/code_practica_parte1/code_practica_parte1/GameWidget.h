@@ -7,20 +7,19 @@
 #include "Obstaculo.h"
 #include <QPixmap>
 
+
 class GameWidget : public QWidget {
     Q_OBJECT
 
 signals:
-    // Señal para avisar a MainWindow que el juego terminó
-    void gameEnded(int winnerPlayer);
 
-    // Asumo que esta señal la usas para cambiar de turno en MainWindow
+    void gameEnded(int winnerPlayer);
     void projectileFinished();
 
 public:
     explicit GameWidget(QWidget *parent = nullptr);
 
-    // lanzar proyectil desde la UI
+
     void lanzarProyectil(double angGrados, double velocidad, int jugador);
 
     void setScale(double s) { scale = s; update(); }
@@ -28,10 +27,7 @@ public:
     // Función que verifica si el enemigo fue destruido
     bool checkWinCondition();
 
-    // **MÉTODO AÑADIDO PARA EL BOTÓN "VOLVER A JUGAR"**
     void reiniciarSimulacion();
-
-    //setter de valores de posicion angulo
     void setShotParameters(double angle, double speed, int player);
 
 
