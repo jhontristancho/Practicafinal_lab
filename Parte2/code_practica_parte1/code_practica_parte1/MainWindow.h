@@ -14,7 +14,8 @@ public:
 
 private slots:
     void onFireClicked();
-    void onGameEnded(int winnerPlayer); // NUEVO SLOT
+    void onGameEnded(int winnerPlayer);
+    void onShotParameterChanged();
 
 private:
     GameWidget *game;

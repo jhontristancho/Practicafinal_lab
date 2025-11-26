@@ -5,6 +5,7 @@
 #include <QTimer>
 #include "Simulador.h"
 #include "Obstaculo.h"
+#include <QPixmap>
 
 class GameWidget : public QWidget {
     Q_OBJECT
@@ -30,6 +31,10 @@ public:
     // **MÉTODO AÑADIDO PARA EL BOTÓN "VOLVER A JUGAR"**
     void reiniciarSimulacion();
 
+    //setter de valores de posicion angulo
+    void setShotParameters(double angle, double speed, int player);
+
+
 protected:
     void paintEvent(QPaintEvent *event) override;
 
@@ -44,6 +49,18 @@ private:
     int frames_without_projectile;
     double cannon1X, cannon1Y;
     double cannon2X, cannon2Y;
+
+    QPixmap backgroundTexture;
+    QPixmap obstacleTexture;
+    QPixmap cannonRTexture;
+    QPixmap cannonLTexture;
+    QPixmap projectileTexture;
+
+    // 2. Variables para almacenar los parámetros de disparo
+    double currentAngle;
+    double currentSpeed;
+    int currentPlayer;
+
 };
 
 #endif // GAMEWIDGET_H

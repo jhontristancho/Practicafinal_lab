@@ -98,6 +98,5 @@ void Simulador::step(double dt) {
     }
     colisionesParticulas();
 
-    // opcional: limpiar partículas inactivas
-    // (no las eliminamos automáticamente aquí; la UI puede hacerlo si quiere)
+
 }

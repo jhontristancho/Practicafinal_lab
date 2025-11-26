@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/imagenes">
+        <file>multimedia/imagenes/fondo.png</file>
+        <file>multimedia/imagenes/obstaculo.png</file>
+        <file>multimedia/imagenes/canon2.png</file>
+        <file>multimedia/imagenes/canon1.png</file>
+        <file>multimedia/imagenes/bala.png</file>
+    </qresource>
+    <qresource prefix="/sonido"/>
+</RCC>
