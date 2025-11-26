@@ -14,6 +14,7 @@ public:
 
 private slots:
     void onFireClicked();
+    void onGameEnded(int winnerPlayer); // NUEVO SLOT
 
 private:
     GameWidget *game;
@@ -24,6 +25,7 @@ private:
     QDoubleSpinBox *spinSpeed;
     QPushButton *btnFire;
     int currentPlayer;
+    void resetGame();
 };
 
 #endif

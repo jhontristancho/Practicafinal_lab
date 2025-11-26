@@ -73,16 +73,99 @@ void GameWidget::lanzarProyectil(double angGrados, double velocidad, int jugador
 void GameWidget::onTick() {
     sim.step(tiempo_dt);
 
-    // cuenta frames para cuando no hay partículas activas
-    bool anyActive = false;
-    for (auto &p : sim.particulas) { if (p.activa) { anyActive = true; break; } }
-    if (!anyActive) frames_without_projectile++;
-    else frames_without_projectile = 0;
+    // 2. VERIFICACIÓN DE VICTORIA
+    if (checkWinCondition()) {
+        timer.stop(); // Detiene la simulación y el juego
+        update();     // Redibuja el estado final (muros destruidos)
+        return;       // Sale, ya no hay nada más que hacer
+    }
 
-    // si no hay partículas activas por muchos frames, consideramos terminado el tiro
-    // (esto se usa por la UI si necesitara reaccionar)
-    if (frames_without_projectile > 200) {
-        // no hacemos nada por ahora, sólo seguimos dibujando
+    // 3. LÓGICA DE DETECCIÓN DE FIN DE TIRO/TURNO
+    bool anyActive = false;
+    for (auto &p : sim.particulas) {
+        if (p.activa) {
+            anyActive = true;
+            break;
+        }
+    }
+
+    if (!anyActive) {
+        frames_without_projectile++;
+    } else {
+        frames_without_projectile = 0;
+    }
+
+
+    if (frames_without_projectile > 5) {
+        emit projectileFinished(); // Avisa a MainWindow para que cambie de jugador y turno
+        frames_without_projectile = -100; // Resetea el contador para evitar re-envío inmediato
+    }
+
+    update();
+}
+
+bool GameWidget::checkWinCondition() {
+    int aliveLeft = 0;   // Obstáculos del jugador 2 (objetivo del Jugador 2)
+    int aliveRight = 0;  // Obstáculos del jugador 1 (objetivo del Jugador 1)
+
+    // La mitad del ancho de la simulación
+    double midX = sim.ancho / 2.0;
+
+    for (const auto &o : sim.obstaculos) {
+        if (o.estaVivo()) {
+            // Clasifica el obstáculo basado en la posición de su centro (o.x + o.lado/2.0)
+            if (o.x + o.lado/2.0 < midX) {
+                aliveLeft++;
+            }
+            else {
+                aliveRight++;
+            }
+        }
+    }
+
+    if (aliveRight == 0) {
+        emit gameEnded(1); // Gana el Jugador 1 si destruye todos los obstáculos de la DERECHA
+        return true;
+    }
+    if (aliveLeft == 0) {
+        emit gameEnded(2); // Gana el Jugador 2 si destruye todos los obstáculos de la IZQUIERDA
+        return true;
+    }
+
+    return false;
+}
+
+// Implementación del método de reinicio
+void GameWidget::reiniciarSimulacion() {
+    sim.limpiarParticulas();
+    frames_without_projectile = 0;
+
+    // 2. RECREAR OBSTÁCULOS
+    sim.obstaculos.clear();
+
+    double marginBottom = 10.0;
+    double colSize      = 40.0;
+    double topSize      = 100.0;
+
+    double baseY = sim.alto - colSize - marginBottom;
+    double topY  = baseY - topSize;
+
+    double leftTopX  = 80.0;
+    double rightTopX = sim.ancho - leftTopX - topSize;
+
+    // ------- Fortaleza izquierda -------
+    sim.agregarObstaculo(Obstaculo(leftTopX,                      baseY, colSize, 200));
+    sim.agregarObstaculo(Obstaculo(leftTopX + topSize - colSize,  baseY, colSize, 200));
+    sim.agregarObstaculo(Obstaculo(leftTopX,                      topY,  topSize, 100));
+
+    // ------- Fortaleza derecha -------
+    sim.agregarObstaculo(Obstaculo(rightTopX,                     baseY, colSize, 200));
+    sim.agregarObstaculo(Obstaculo(rightTopX + topSize - colSize, baseY, colSize, 200));
+    sim.agregarObstaculo(Obstaculo(rightTopX,                     topY,  topSize, 100));
+
+    // 3. Reiniciar el temporizador
+    if (!timer.isActive()) {
+        timer.start(int(tiempo_dt * 1000));
     }
 
     update();
