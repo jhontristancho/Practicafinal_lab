@@ -1,0 +1,2855 @@
+
+Tiempo 0
+t=0 -> Choque con pared vertical
+t=0 -> Choque con pared horizontal
+Particula (1.75, -2.99438)
+Particula (151.5, 246.506)
+Particula (298.25, 277.506)
+Particula (417.75, 257.256)
+
+Tiempo 0.025
+t=0.025 -> Choque con pared vertical
+t=0.025 -> Choque con pared horizontal
+Particula (0, 0.005625)
+Particula (153, 243.017)
+Particula (296.5, 275.017)
+Particula (415.5, 254.517)
+
+Tiempo 0.05
+t=0.05 -> Choque con pared vertical
+t=0.05 -> Choque con pared horizontal
+Particula (1.75, -2.98875)
+Particula (154.5, 239.534)
+Particula (294.75, 272.534)
+Particula (413.25, 251.784)
+
+Tiempo 0.075
+t=0.075 -> Choque con pared vertical
+t=0.075 -> Choque con pared horizontal
+Particula (0, 0.01125)
+Particula (156, 236.056)
+Particula (293, 270.056)
+Particula (411, 249.056)
+
+Tiempo 0.1
+t=0.1 -> Choque con pared vertical
+t=0.1 -> Choque con pared horizontal
+Particula (1.75, -2.98313)
+Particula (157.5, 232.584)
+Particula (291.25, 267.584)
+Particula (408.75, 246.334)
+
+Tiempo 0.125
+t=0.125 -> Choque con pared vertical
+t=0.125 -> Choque con pared horizontal
+Particula (0, 0.016875)
+Particula (159, 229.118)
+Particula (289.5, 265.118)
+Particula (406.5, 243.618)
+
+Tiempo 0.15
+t=0.15 -> Choque con pared vertical
+t=0.15 -> Choque con pared horizontal
+Particula (1.75, -2.9775)
+Particula (160.5, 225.657)
+Particula (287.75, 262.658)
+Particula (404.25, 240.907)
+
+Tiempo 0.175
+t=0.175 -> Choque con pared vertical
+t=0.175 -> Choque con pared horizontal
+Particula (0, 0.0225)
+Particula (162, 222.202)
+Particula (286, 260.203)
+Particula (402, 238.202)
+
+Tiempo 0.2
+t=0.2 -> Choque con pared vertical
+t=0.2 -> Choque con pared horizontal
+Particula (1.75, -2.97188)
+Particula (163.5, 218.753)
+Particula (284.25, 257.753)
+Particula (399.75, 235.503)
+
+Tiempo 0.225
+t=0.225 -> Choque con pared vertical
+t=0.225 -> Choque con pared horizontal
+Particula (0, 0.028125)
+Particula (165, 215.309)
+Particula (282.5, 255.309)
+Particula (397.5, 232.809)
+
+Tiempo 0.25
+t=0.25 -> Choque con pared vertical
+t=0.25 -> Choque con pared horizontal
+Particula (1.75, -2.96625)
+Particula (166.5, 211.871)
+Particula (280.75, 252.871)
+Particula (395.25, 230.121)
+
+Tiempo 0.275
+t=0.275 -> Choque con pared vertical
+t=0.275 -> Choque con pared horizontal
+Particula (0, 0.03375)
+Particula (168, 208.439)
+Particula (279, 250.439)
+Particula (393, 227.439)
+
+Tiempo 0.3
+t=0.3 -> Choque con pared vertical
+t=0.3 -> Choque con pared horizontal
+Particula (1.75, -2.96063)
+Particula (169.5, 205.012)
+Particula (277.25, 248.012)
+Particula (390.75, 224.762)
+
+Tiempo 0.325
+t=0.325 -> Choque con pared vertical
+t=0.325 -> Choque con pared horizontal
+Particula (0, 0.039375)
+Particula (171, 201.591)
+Particula (275.5, 245.591)
+Particula (388.5, 222.091)
+
+Tiempo 0.35
+t=0.35 -> Choque con pared vertical
+t=0.35 -> Choque con pared horizontal
+Particula (1.75, -2.955)
+Particula (172.5, 198.175)
+Particula (273.75, 243.175)
+Particula (386.25, 219.425)
+
+Tiempo 0.375
+t=0.375 -> Choque con pared vertical
+t=0.375 -> Choque con pared horizontal
+Particula (0, 0.045)
+Particula (174, 194.765)
+Particula (272, 240.765)
+Particula (384, 216.765)
+
+Tiempo 0.4
+t=0.4 -> Choque con pared vertical
+t=0.4 -> Choque con pared horizontal
+Particula (1.75, -2.94938)
+Particula (175.5, 191.361)
+t=0.4 -> Colision con obstaculo cuadrado
+Particula (270.25, 238.361)
+Particula (381.75, 214.111)
+
+Tiempo 0.425
+t=0.425 -> Choque con pared vertical
+t=0.425 -> Choque con pared horizontal
+Particula (0, 0.050625)
+t=0.425 -> Colision con obstaculo cuadrado
+Particula (177, 187.962)
+t=0.425 -> Colision con obstaculo cuadrado
+Particula (268.5, 239.809)
+Particula (379.5, 211.462)
+
+Tiempo 0.45
+t=0.45 -> Choque con pared vertical
+t=0.45 -> Choque con pared horizontal
+Particula (1.75, -2.94375)
+Particula (178.5, 190.007)
+t=0.45 -> Colision con obstaculo cuadrado
+Particula (266.75, 238.946)
+Particula (377.25, 208.819)
+
+Tiempo 0.475
+t=0.475 -> Choque con pared vertical
+t=0.475 -> Choque con pared horizontal
+Particula (0, 0.05625)
+Particula (180, 192.057)
+t=0.475 -> Colision con obstaculo cuadrado
+Particula (265, 239.469)
+Particula (375, 206.181)
+
+Tiempo 0.5
+t=0.5 -> Choque con pared vertical
+t=0.5 -> Choque con pared horizontal
+Particula (1.75, -2.93813)
+Particula (181.5, 194.113)
+t=0.5 -> Colision con obstaculo cuadrado
+Particula (263.25, 239.161)
+Particula (372.75, 203.549)
+
+Tiempo 0.525
+t=0.525 -> Choque con pared vertical
+t=0.525 -> Choque con pared horizontal
+Particula (0, 0.061875)
+Particula (183, 196.175)
+t=0.525 -> Colision con obstaculo cuadrado
+Particula (261.5, 239.351)
+Particula (370.5, 200.923)
+
+Tiempo 0.55
+t=0.55 -> Choque con pared vertical
+t=0.55 -> Choque con pared horizontal
+Particula (1.75, -2.9325)
+Particula (184.5, 198.242)
+Particula (259.75, 239.243)
+Particula (368.25, 198.302)
+
+Tiempo 0.575
+t=0.575 -> Choque con pared vertical
+t=0.575 -> Choque con pared horizontal
+Particula (0, 0.0675)
+Particula (186, 200.315)
+Particula (258, 239.139)
+Particula (366, 195.687)
+
+Tiempo 0.6
+t=0.6 -> Choque con pared vertical
+t=0.6 -> Choque con pared horizontal
+Particula (1.75, -2.92688)
+Particula (187.5, 202.394)
+Particula (256.25, 239.042)
+Particula (363.75, 193.078)
+
+Tiempo 0.625
+t=0.625 -> Choque con pared vertical
+t=0.625 -> Choque con pared horizontal
+Particula (0, 0.073125)
+Particula (189, 204.478)
+Particula (254.5, 238.95)
+Particula (361.5, 190.474)
+
+Tiempo 0.65
+t=0.65 -> Choque con pared vertical
+t=0.65 -> Choque con pared horizontal
+Particula (1.75, -2.92125)
+Particula (190.5, 206.568)
+Particula (252.75, 238.863)
+Particula (359.25, 187.876)
+
+Tiempo 0.675
+t=0.675 -> Choque con pared vertical
+t=0.675 -> Choque con pared horizontal
+Particula (0, 0.07875)
+Particula (192, 208.664)
+Particula (251, 238.783)
+Particula (357, 185.284)
+
+Tiempo 0.7
+t=0.7 -> Choque con pared vertical
+t=0.7 -> Choque con pared horizontal
+Particula (1.75, -2.91563)
+Particula (193.5, 210.765)
+Particula (249.25, 238.708)
+Particula (354.75, 182.697)
+
+Tiempo 0.725
+t=0.725 -> Choque con pared vertical
+t=0.725 -> Choque con pared horizontal
+Particula (0, 0.084375)
+Particula (195, 212.872)
+Particula (247.5, 238.638)
+Particula (352.5, 180.116)
+
+Tiempo 0.75
+t=0.75 -> Choque con pared vertical
+t=0.75 -> Choque con pared horizontal
+Particula (1.75, -2.91)
+Particula (196.5, 214.984)
+Particula (245.75, 238.574)
+Particula (350.25, 177.54)
+
+Tiempo 0.775
+t=0.775 -> Choque con pared vertical
+t=0.775 -> Choque con pared horizontal
+Particula (0, 0.09)
+Particula (198, 217.102)
+Particula (244, 238.516)
+Particula (348, 174.97)
+
+Tiempo 0.8
+t=0.8 -> Choque con pared vertical
+t=0.8 -> Choque con pared horizontal
+Particula (1.75, -2.90438)
+Particula (199.5, 219.226)
+Particula (242.25, 238.464)
+Particula (345.75, 172.406)
+
+Tiempo 0.825
+t=0.825 -> Choque con pared vertical
+t=0.825 -> Choque con pared horizontal
+Particula (0, 0.095625)
+Particula (201, 221.355)
+Particula (240.5, 238.417)
+Particula (343.5, 169.847)
+
+Tiempo 0.85
+t=0.85 -> Choque con pared vertical
+t=0.85 -> Choque con pared horizontal
+Particula (1.75, -2.89875)
+Particula (202.5, 223.49)
+Particula (238.75, 238.375)
+Particula (341.25, 167.294)
+
+Tiempo 0.875
+t=0.875 -> Choque con pared vertical
+t=0.875 -> Choque con pared horizontal
+Particula (0, 0.10125)
+Particula (204, 225.63)
+Particula (237, 238.34)
+Particula (339, 164.746)
+
+Tiempo 0.9
+t=0.9 -> Choque con pared vertical
+t=0.9 -> Choque con pared horizontal
+Particula (1.75, -2.89313)
+Particula (205.5, 227.776)
+Particula (235.25, 238.31)
+Particula (336.75, 162.204)
+
+Tiempo 0.925
+t=0.925 -> Choque con pared vertical
+t=0.925 -> Choque con pared horizontal
+Particula (0, 0.106875)
+Particula (207, 229.928)
+Particula (233.5, 238.285)
+Particula (334.5, 159.668)
+
+Tiempo 0.95
+t=0.95 -> Choque con pared vertical
+t=0.95 -> Choque con pared horizontal
+Particula (1.75, -2.8875)
+Particula (208.5, 232.085)
+Particula (231.75, 238.266)
+Particula (332.25, 157.137)
+
+Tiempo 0.975
+t=0.975 -> Choque con pared vertical
+t=0.975 -> Choque con pared horizontal
+Particula (0, 0.1125)
+Particula (210, 234.248)
+Particula (230, 238.253)
+Particula (330, 154.612)
+t=0.975 -> Fusion particulas 1 y 2
+
+Tiempo 1
+t=1 -> Choque con pared vertical
+t=1 -> Choque con pared horizontal
+Particula (1.75, -2.88188)
+Particula (221.071, 237.462)
+Particula (327.75, 152.093)
+
+Tiempo 1.025
+t=1.025 -> Choque con pared vertical
+t=1.025 -> Choque con pared horizontal
+Particula (0, 0.118125)
+Particula (220.714, 238.393)
+t=1.025 -> Colision con obstaculo cuadrado
+Particula (325.5, 149.579)
+
+Tiempo 1.05
+t=1.05 -> Choque con pared vertical
+t=1.05 -> Choque con pared horizontal
+Particula (1.75, -2.87625)
+Particula (220.357, 239.329)
+Particula (323.25, 151.093)
+
+Tiempo 1.075
+t=1.075 -> Choque con pared vertical
+t=1.075 -> Choque con pared horizontal
+Particula (0, 0.12375)
+Particula (220, 240.271)
+Particula (321, 152.613)
+
+Tiempo 1.1
+t=1.1 -> Choque con pared vertical
+t=1.1 -> Choque con pared horizontal
+Particula (1.75, -2.87063)
+Particula (219.643, 241.219)
+Particula (318.75, 154.138)
+
+Tiempo 1.125
+t=1.125 -> Choque con pared vertical
+t=1.125 -> Choque con pared horizontal
+Particula (0, 0.129375)
+Particula (219.286, 242.172)
+Particula (316.5, 155.669)
+
+Tiempo 1.15
+t=1.15 -> Choque con pared vertical
+t=1.15 -> Choque con pared horizontal
+Particula (1.75, -2.865)
+Particula (218.929, 243.131)
+Particula (314.25, 157.205)
+
+Tiempo 1.175
+t=1.175 -> Choque con pared vertical
+t=1.175 -> Choque con pared horizontal
+Particula (0, 0.135)
+Particula (218.571, 244.095)
+Particula (312, 158.747)
+
+Tiempo 1.2
+t=1.2 -> Choque con pared vertical
+t=1.2 -> Choque con pared horizontal
+Particula (1.75, -2.85938)
+Particula (218.214, 245.065)
+Particula (309.75, 160.295)
+
+Tiempo 1.225
+t=1.225 -> Choque con pared vertical
+t=1.225 -> Choque con pared horizontal
+Particula (0, 0.140625)
+Particula (217.857, 246.041)
+Particula (307.5, 161.848)
+
+Tiempo 1.25
+t=1.25 -> Choque con pared vertical
+t=1.25 -> Choque con pared horizontal
+Particula (1.75, -2.85375)
+Particula (217.5, 247.022)
+Particula (305.25, 163.407)
+
+Tiempo 1.275
+t=1.275 -> Choque con pared vertical
+t=1.275 -> Choque con pared horizontal
+Particula (0, 0.14625)
+Particula (217.143, 248.009)
+Particula (303, 164.971)
+
+Tiempo 1.3
+t=1.3 -> Choque con pared vertical
+t=1.3 -> Choque con pared horizontal
+Particula (1.75, -2.84813)
+Particula (216.786, 249.002)
+Particula (300.75, 166.541)
+
+Tiempo 1.325
+t=1.325 -> Choque con pared vertical
+t=1.325 -> Choque con pared horizontal
+Particula (0, 0.151875)
+Particula (216.429, 250)
+Particula (298.5, 168.117)
+
+Tiempo 1.35
+t=1.35 -> Choque con pared vertical
+t=1.35 -> Choque con pared horizontal
+Particula (1.75, -2.8425)
+Particula (216.071, 251.004)
+Particula (296.25, 169.698)
+
+Tiempo 1.375
+t=1.375 -> Choque con pared vertical
+t=1.375 -> Choque con pared horizontal
+Particula (0, 0.1575)
+Particula (215.714, 252.013)
+Particula (294, 171.285)
+
+Tiempo 1.4
+t=1.4 -> Choque con pared vertical
+t=1.4 -> Choque con pared horizontal
+Particula (1.75, -2.83688)
+Particula (215.357, 253.028)
+Particula (291.75, 172.878)
+
+Tiempo 1.425
+t=1.425 -> Choque con pared vertical
+t=1.425 -> Choque con pared horizontal
+Particula (0, 0.163125)
+Particula (215, 254.049)
+Particula (289.5, 174.476)
+
+Tiempo 1.45
+t=1.45 -> Choque con pared vertical
+t=1.45 -> Choque con pared horizontal
+Particula (1.75, -2.83125)
+Particula (214.643, 255.075)
+Particula (287.25, 176.08)
+
+Tiempo 1.475
+t=1.475 -> Choque con pared vertical
+t=1.475 -> Choque con pared horizontal
+Particula (0, 0.16875)
+Particula (214.286, 256.107)
+Particula (285, 177.69)
+
+Tiempo 1.5
+t=1.5 -> Choque con pared vertical
+t=1.5 -> Choque con pared horizontal
+Particula (1.75, -2.82563)
+Particula (213.929, 257.145)
+Particula (282.75, 179.305)
+
+Tiempo 1.525
+t=1.525 -> Choque con pared vertical
+t=1.525 -> Choque con pared horizontal
+Particula (0, 0.174375)
+Particula (213.571, 258.188)
+Particula (280.5, 180.926)
+
+Tiempo 1.55
+t=1.55 -> Choque con pared vertical
+t=1.55 -> Choque con pared horizontal
+Particula (1.75, -2.82)
+Particula (213.214, 259.237)
+Particula (278.25, 182.552)
+
+Tiempo 1.575
+t=1.575 -> Choque con pared vertical
+t=1.575 -> Choque con pared horizontal
+Particula (0, 0.18)
+Particula (212.857, 260.291)
+Particula (276, 184.184)
+
+Tiempo 1.6
+t=1.6 -> Choque con pared vertical
+t=1.6 -> Choque con pared horizontal
+Particula (1.75, -2.81438)
+Particula (212.5, 261.351)
+Particula (273.75, 185.822)
+
+Tiempo 1.625
+t=1.625 -> Choque con pared vertical
+t=1.625 -> Choque con pared horizontal
+Particula (0, 0.185625)
+Particula (212.143, 262.417)
+Particula (271.5, 187.465)
+
+Tiempo 1.65
+t=1.65 -> Choque con pared vertical
+t=1.65 -> Choque con pared horizontal
+Particula (1.75, -2.80875)
+Particula (211.786, 263.488)
+Particula (269.25, 189.114)
+
+Tiempo 1.675
+t=1.675 -> Choque con pared vertical
+t=1.675 -> Choque con pared horizontal
+Particula (0, 0.19125)
+Particula (211.429, 264.565)
+Particula (267, 190.768)
+
+Tiempo 1.7
+t=1.7 -> Choque con pared vertical
+t=1.7 -> Choque con pared horizontal
+Particula (1.75, -2.80313)
+Particula (211.071, 265.648)
+Particula (264.75, 192.428)
+
+Tiempo 1.725
+t=1.725 -> Choque con pared vertical
+t=1.725 -> Choque con pared horizontal
+Particula (0, 0.196875)
+Particula (210.714, 266.736)
+Particula (262.5, 194.094)
+
+Tiempo 1.75
+t=1.75 -> Choque con pared vertical
+t=1.75 -> Choque con pared horizontal
+Particula (1.75, -2.7975)
+Particula (210.357, 267.83)
+Particula (260.25, 195.765)
+
+Tiempo 1.775
+t=1.775 -> Choque con pared vertical
+t=1.775 -> Choque con pared horizontal
+Particula (0, 0.2025)
+Particula (210, 268.929)
+Particula (258, 197.442)
+
+Tiempo 1.8
+t=1.8 -> Choque con pared vertical
+t=1.8 -> Choque con pared horizontal
+Particula (1.75, -2.79188)
+Particula (209.643, 270.035)
+Particula (255.75, 199.125)
+
+Tiempo 1.825
+t=1.825 -> Choque con pared vertical
+t=1.825 -> Choque con pared horizontal
+Particula (0, 0.208125)
+Particula (209.286, 271.145)
+Particula (253.5, 200.813)
+
+Tiempo 1.85
+t=1.85 -> Choque con pared vertical
+t=1.85 -> Choque con pared horizontal
+Particula (1.75, -2.78625)
+Particula (208.929, 272.262)
+Particula (251.25, 202.507)
+
+Tiempo 1.875
+t=1.875 -> Choque con pared vertical
+t=1.875 -> Choque con pared horizontal
+Particula (0, 0.21375)
+Particula (208.571, 273.384)
+Particula (249, 204.207)
+
+Tiempo 1.9
+t=1.9 -> Choque con pared vertical
+t=1.9 -> Choque con pared horizontal
+Particula (1.75, -2.78063)
+Particula (208.214, 274.511)
+Particula (246.75, 205.912)
+
+Tiempo 1.925
+t=1.925 -> Choque con pared vertical
+t=1.925 -> Choque con pared horizontal
+Particula (0, 0.219375)
+Particula (207.857, 275.644)
+Particula (244.5, 207.623)
+
+Tiempo 1.95
+t=1.95 -> Choque con pared vertical
+t=1.95 -> Choque con pared horizontal
+Particula (1.75, -2.775)
+Particula (207.5, 276.783)
+Particula (242.25, 209.339)
+
+Tiempo 1.975
+t=1.975 -> Choque con pared vertical
+t=1.975 -> Choque con pared horizontal
+Particula (0, 0.225)
+Particula (207.143, 277.928)
+Particula (240, 211.061)
+
+Tiempo 2
+t=2 -> Choque con pared vertical
+t=2 -> Choque con pared horizontal
+Particula (1.75, -2.76938)
+Particula (206.786, 279.078)
+Particula (237.75, 212.789)
+
+Tiempo 2.025
+t=2.025 -> Choque con pared vertical
+t=2.025 -> Choque con pared horizontal
+Particula (0, 0.230625)
+Particula (206.429, 280.233)
+Particula (235.5, 214.522)
+
+Tiempo 2.05
+t=2.05 -> Choque con pared vertical
+t=2.05 -> Choque con pared horizontal
+Particula (1.75, -2.76375)
+Particula (206.071, 281.395)
+Particula (233.25, 216.261)
+
+Tiempo 2.075
+t=2.075 -> Choque con pared vertical
+t=2.075 -> Choque con pared horizontal
+Particula (0, 0.23625)
+Particula (205.714, 282.562)
+Particula (231, 218.005)
+
+Tiempo 2.1
+t=2.1 -> Choque con pared vertical
+t=2.1 -> Choque con pared horizontal
+Particula (1.75, -2.75813)
+Particula (205.357, 283.734)
+Particula (228.75, 219.755)
+
+Tiempo 2.125
+t=2.125 -> Choque con pared vertical
+t=2.125 -> Choque con pared horizontal
+Particula (0, 0.241875)
+Particula (205, 284.912)
+Particula (226.5, 221.511)
+
+Tiempo 2.15
+t=2.15 -> Choque con pared vertical
+t=2.15 -> Choque con pared horizontal
+Particula (1.75, -2.7525)
+Particula (204.643, 286.096)
+Particula (224.25, 223.272)
+
+Tiempo 2.175
+t=2.175 -> Choque con pared vertical
+t=2.175 -> Choque con pared horizontal
+Particula (0, 0.2475)
+Particula (204.286, 287.286)
+Particula (222, 225.039)
+
+Tiempo 2.2
+t=2.2 -> Choque con pared vertical
+t=2.2 -> Choque con pared horizontal
+Particula (1.75, -2.74688)
+Particula (203.929, 288.481)
+Particula (219.75, 226.812)
+
+Tiempo 2.225
+t=2.225 -> Choque con pared vertical
+t=2.225 -> Choque con pared horizontal
+Particula (0, 0.253125)
+Particula (203.571, 289.682)
+Particula (217.5, 228.59)
+
+Tiempo 2.25
+t=2.25 -> Choque con pared vertical
+t=2.25 -> Choque con pared horizontal
+Particula (1.75, -2.74125)
+Particula (203.214, 290.888)
+Particula (215.25, 230.374)
+
+Tiempo 2.275
+t=2.275 -> Choque con pared vertical
+t=2.275 -> Choque con pared horizontal
+Particula (0, 0.25875)
+Particula (202.857, 292.1)
+Particula (213, 232.164)
+
+Tiempo 2.3
+t=2.3 -> Choque con pared vertical
+t=2.3 -> Choque con pared horizontal
+Particula (1.75, -2.73563)
+Particula (202.5, 293.317)
+Particula (210.75, 233.959)
+
+Tiempo 2.325
+t=2.325 -> Choque con pared vertical
+t=2.325 -> Choque con pared horizontal
+Particula (0, 0.264375)
+Particula (202.143, 294.541)
+Particula (208.5, 235.76)
+
+Tiempo 2.35
+t=2.35 -> Choque con pared vertical
+t=2.35 -> Choque con pared horizontal
+Particula (1.75, -2.73)
+Particula (201.786, 295.769)
+Particula (206.25, 237.566)
+
+Tiempo 2.375
+t=2.375 -> Choque con pared vertical
+t=2.375 -> Choque con pared horizontal
+Particula (0, 0.27)
+Particula (201.429, 297.004)
+Particula (204, 239.378)
+
+Tiempo 2.4
+t=2.4 -> Choque con pared vertical
+t=2.4 -> Choque con pared horizontal
+Particula (1.75, -2.72438)
+Particula (201.071, 298.244)
+Particula (201.75, 241.196)
+
+Tiempo 2.425
+t=2.425 -> Choque con pared vertical
+t=2.425 -> Choque con pared horizontal
+Particula (0, 0.275625)
+Particula (200.714, 299.49)
+Particula (199.5, 243.019)
+
+Tiempo 2.45
+t=2.45 -> Choque con pared vertical
+t=2.45 -> Choque con pared horizontal
+Particula (1.75, -2.71875)
+Particula (200.357, 300.741)
+Particula (197.25, 244.848)
+
+Tiempo 2.475
+t=2.475 -> Choque con pared vertical
+t=2.475 -> Choque con pared horizontal
+Particula (0, 0.28125)
+Particula (200, 301.998)
+Particula (195, 246.682)
+
+Tiempo 2.5
+t=2.5 -> Choque con pared vertical
+t=2.5 -> Choque con pared horizontal
+Particula (1.75, -2.71313)
+Particula (199.643, 303.261)
+Particula (192.75, 248.522)
+
+Tiempo 2.525
+t=2.525 -> Choque con pared vertical
+t=2.525 -> Choque con pared horizontal
+Particula (0, 0.286875)
+Particula (199.286, 304.529)
+Particula (190.5, 250.368)
+
+Tiempo 2.55
+t=2.55 -> Choque con pared vertical
+t=2.55 -> Choque con pared horizontal
+Particula (1.75, -2.7075)
+Particula (198.929, 305.803)
+Particula (188.25, 252.219)
+
+Tiempo 2.575
+t=2.575 -> Choque con pared vertical
+t=2.575 -> Choque con pared horizontal
+Particula (0, 0.2925)
+Particula (198.571, 307.082)
+Particula (186, 254.076)
+
+Tiempo 2.6
+t=2.6 -> Choque con pared vertical
+t=2.6 -> Choque con pared horizontal
+Particula (1.75, -2.70188)
+Particula (198.214, 308.367)
+Particula (183.75, 255.939)
+
+Tiempo 2.625
+t=2.625 -> Choque con pared vertical
+t=2.625 -> Choque con pared horizontal
+Particula (0, 0.298125)
+Particula (197.857, 309.658)
+Particula (181.5, 257.807)
+
+Tiempo 2.65
+t=2.65 -> Choque con pared vertical
+t=2.65 -> Choque con pared horizontal
+Particula (1.75, -2.69625)
+Particula (197.5, 310.954)
+Particula (179.25, 259.681)
+
+Tiempo 2.675
+t=2.675 -> Choque con pared vertical
+t=2.675 -> Choque con pared horizontal
+Particula (0, 0.30375)
+Particula (197.143, 312.256)
+Particula (177, 261.561)
+
+Tiempo 2.7
+t=2.7 -> Choque con pared vertical
+t=2.7 -> Choque con pared horizontal
+Particula (1.75, -2.69063)
+Particula (196.786, 313.564)
+Particula (174.75, 263.446)
+
+Tiempo 2.725
+t=2.725 -> Choque con pared vertical
+t=2.725 -> Choque con pared horizontal
+Particula (0, 0.309375)
+Particula (196.429, 314.877)
+Particula (172.5, 265.337)
+
+Tiempo 2.75
+t=2.75 -> Choque con pared vertical
+t=2.75 -> Choque con pared horizontal
+Particula (1.75, -2.685)
+Particula (196.071, 316.196)
+Particula (170.25, 267.233)
+
+Tiempo 2.775
+t=2.775 -> Choque con pared vertical
+t=2.775 -> Choque con pared horizontal
+Particula (0, 0.315)
+Particula (195.714, 317.52)
+Particula (168, 269.135)
+
+Tiempo 2.8
+t=2.8 -> Choque con pared vertical
+t=2.8 -> Choque con pared horizontal
+Particula (1.75, -2.67938)
+Particula (195.357, 318.85)
+Particula (165.75, 271.043)
+
+Tiempo 2.825
+t=2.825 -> Choque con pared vertical
+t=2.825 -> Choque con pared horizontal
+Particula (0, 0.320625)
+Particula (195, 320.186)
+Particula (163.5, 272.956)
+
+Tiempo 2.85
+t=2.85 -> Choque con pared vertical
+t=2.85 -> Choque con pared horizontal
+Particula (1.75, -2.67375)
+Particula (194.643, 321.527)
+Particula (161.25, 274.875)
+
+Tiempo 2.875
+t=2.875 -> Choque con pared vertical
+t=2.875 -> Choque con pared horizontal
+Particula (0, 0.32625)
+Particula (194.286, 322.874)
+Particula (159, 276.799)
+
+Tiempo 2.9
+t=2.9 -> Choque con pared vertical
+t=2.9 -> Choque con pared horizontal
+Particula (1.75, -2.66813)
+Particula (193.929, 324.227)
+Particula (156.75, 278.729)
+
+Tiempo 2.925
+t=2.925 -> Choque con pared vertical
+t=2.925 -> Choque con pared horizontal
+Particula (0, 0.331875)
+Particula (193.571, 325.585)
+Particula (154.5, 280.665)
+
+Tiempo 2.95
+t=2.95 -> Choque con pared vertical
+t=2.95 -> Choque con pared horizontal
+Particula (1.75, -2.6625)
+Particula (193.214, 326.949)
+Particula (152.25, 282.606)
+
+Tiempo 2.975
+t=2.975 -> Choque con pared vertical
+t=2.975 -> Choque con pared horizontal
+Particula (0, 0.3375)
+Particula (192.857, 328.318)
+Particula (150, 284.553)
+
+Tiempo 3
+t=3 -> Choque con pared vertical
+t=3 -> Choque con pared horizontal
+Particula (1.75, -2.65688)
+Particula (192.5, 329.693)
+Particula (147.75, 286.506)
+
+Tiempo 3.025
+t=3.025 -> Choque con pared vertical
+t=3.025 -> Choque con pared horizontal
+Particula (0, 0.343125)
+Particula (192.143, 331.074)
+Particula (145.5, 288.464)
+
+Tiempo 3.05
+t=3.05 -> Choque con pared vertical
+t=3.05 -> Choque con pared horizontal
+Particula (1.75, -2.65125)
+Particula (191.786, 332.46)
+Particula (143.25, 290.428)
+
+Tiempo 3.075
+t=3.075 -> Choque con pared vertical
+t=3.075 -> Choque con pared horizontal
+Particula (0, 0.34875)
+Particula (191.429, 333.852)
+Particula (141, 292.398)
+
+Tiempo 3.1
+t=3.1 -> Choque con pared vertical
+t=3.1 -> Choque con pared horizontal
+Particula (1.75, -2.64563)
+t=3.1 -> Choque con pared horizontal
+Particula (191.071, 335.25)
+Particula (138.75, 294.373)
+
+Tiempo 3.125
+t=3.125 -> Choque con pared vertical
+t=3.125 -> Choque con pared horizontal
+Particula (0, 0.354375)
+Particula (190.714, 333.858)
+Particula (136.5, 296.354)
+
+Tiempo 3.15
+t=3.15 -> Choque con pared vertical
+t=3.15 -> Choque con pared horizontal
+Particula (1.75, -2.64)
+Particula (190.357, 332.472)
+Particula (134.25, 298.34)
+
+Tiempo 3.175
+t=3.175 -> Choque con pared vertical
+t=3.175 -> Choque con pared horizontal
+Particula (0, 0.36)
+Particula (190, 331.091)
+Particula (132, 300.332)
+
+Tiempo 3.2
+t=3.2 -> Choque con pared vertical
+t=3.2 -> Choque con pared horizontal
+Particula (1.75, -2.63438)
+Particula (189.643, 329.716)
+Particula (129.75, 302.33)
+
+Tiempo 3.225
+t=3.225 -> Choque con pared vertical
+t=3.225 -> Choque con pared horizontal
+Particula (0, 0.365625)
+Particula (189.286, 328.346)
+Particula (127.5, 304.333)
+
+Tiempo 3.25
+t=3.25 -> Choque con pared vertical
+t=3.25 -> Choque con pared horizontal
+Particula (1.75, -2.62875)
+Particula (188.929, 326.983)
+Particula (125.25, 306.342)
+
+Tiempo 3.275
+t=3.275 -> Choque con pared vertical
+t=3.275 -> Choque con pared horizontal
+Particula (0, 0.37125)
+Particula (188.571, 325.624)
+Particula (123, 308.356)
+
+Tiempo 3.3
+t=3.3 -> Choque con pared vertical
+t=3.3 -> Choque con pared horizontal
+Particula (1.75, -2.62313)
+Particula (188.214, 324.272)
+Particula (120.75, 310.376)
+
+Tiempo 3.325
+t=3.325 -> Choque con pared vertical
+t=3.325 -> Choque con pared horizontal
+Particula (0, 0.376875)
+Particula (187.857, 322.925)
+Particula (118.5, 312.402)
+
+Tiempo 3.35
+t=3.35 -> Choque con pared vertical
+t=3.35 -> Choque con pared horizontal
+Particula (1.75, -2.6175)
+Particula (187.5, 321.584)
+Particula (116.25, 314.433)
+
+Tiempo 3.375
+t=3.375 -> Choque con pared vertical
+t=3.375 -> Choque con pared horizontal
+Particula (0, 0.3825)
+Particula (187.143, 320.248)
+Particula (114, 316.47)
+
+Tiempo 3.4
+t=3.4 -> Choque con pared vertical
+t=3.4 -> Choque con pared horizontal
+Particula (1.75, -2.61188)
+Particula (186.786, 318.918)
+Particula (111.75, 318.513)
+
+Tiempo 3.425
+t=3.425 -> Choque con pared vertical
+t=3.425 -> Choque con pared horizontal
+Particula (0, 0.388125)
+Particula (186.429, 317.593)
+Particula (109.5, 320.561)
+
+Tiempo 3.45
+t=3.45 -> Choque con pared vertical
+t=3.45 -> Choque con pared horizontal
+Particula (1.75, -2.60625)
+Particula (186.071, 316.274)
+Particula (107.25, 322.615)
+
+Tiempo 3.475
+t=3.475 -> Choque con pared vertical
+t=3.475 -> Choque con pared horizontal
+Particula (0, 0.39375)
+Particula (185.714, 314.961)
+Particula (105, 324.675)
+
+Tiempo 3.5
+t=3.5 -> Choque con pared vertical
+t=3.5 -> Choque con pared horizontal
+Particula (1.75, -2.60063)
+Particula (185.357, 313.654)
+Particula (102.75, 326.74)
+
+Tiempo 3.525
+t=3.525 -> Choque con pared vertical
+t=3.525 -> Choque con pared horizontal
+Particula (0, 0.399375)
+Particula (185, 312.352)
+Particula (100.5, 328.811)
+
+Tiempo 3.55
+t=3.55 -> Choque con pared vertical
+t=3.55 -> Choque con pared horizontal
+Particula (1.75, -2.595)
+Particula (184.643, 311.055)
+Particula (98.25, 330.887)
+
+Tiempo 3.575
+t=3.575 -> Choque con pared vertical
+t=3.575 -> Choque con pared horizontal
+Particula (0, 0.405)
+Particula (184.286, 309.765)
+Particula (96, 332.969)
+
+Tiempo 3.6
+t=3.6 -> Choque con pared vertical
+t=3.6 -> Choque con pared horizontal
+Particula (1.75, -2.58938)
+Particula (183.929, 308.48)
+Particula (93.75, 335.057)
+
+Tiempo 3.625
+t=3.625 -> Choque con pared vertical
+t=3.625 -> Choque con pared horizontal
+Particula (0, 0.410625)
+Particula (183.571, 307.2)
+Particula (91.5, 337.15)
+
+Tiempo 3.65
+t=3.65 -> Choque con pared vertical
+t=3.65 -> Choque con pared horizontal
+Particula (1.75, -2.58375)
+Particula (183.214, 305.926)
+Particula (89.25, 339.249)
+
+Tiempo 3.675
+t=3.675 -> Choque con pared vertical
+t=3.675 -> Choque con pared horizontal
+Particula (0, 0.41625)
+Particula (182.857, 304.658)
+t=3.675 -> Choque con pared horizontal
+Particula (87, 341.353)
+
+Tiempo 3.7
+t=3.7 -> Choque con pared vertical
+t=3.7 -> Choque con pared horizontal
+Particula (1.75, -2.57813)
+Particula (182.5, 303.396)
+Particula (84.75, 339.254)
+
+Tiempo 3.725
+t=3.725 -> Choque con pared vertical
+t=3.725 -> Choque con pared horizontal
+Particula (0, 0.421875)
+Particula (182.143, 302.139)
+Particula (82.5, 337.161)
+
+Tiempo 3.75
+t=3.75 -> Choque con pared vertical
+t=3.75 -> Choque con pared horizontal
+Particula (1.75, -2.5725)
+Particula (181.786, 300.887)
+Particula (80.25, 335.073)
+
+Tiempo 3.775
+t=3.775 -> Choque con pared vertical
+t=3.775 -> Choque con pared horizontal
+Particula (0, 0.4275)
+Particula (181.429, 299.642)
+Particula (78, 332.991)
+
+Tiempo 3.8
+t=3.8 -> Choque con pared vertical
+t=3.8 -> Choque con pared horizontal
+Particula (1.75, -2.56688)
+Particula (181.071, 298.401)
+Particula (75.75, 330.915)
+
+Tiempo 3.825
+t=3.825 -> Choque con pared vertical
+t=3.825 -> Choque con pared horizontal
+Particula (0, 0.433125)
+Particula (180.714, 297.167)
+Particula (73.5, 328.844)
+
+Tiempo 3.85
+t=3.85 -> Choque con pared vertical
+t=3.85 -> Choque con pared horizontal
+Particula (1.75, -2.56125)
+Particula (180.357, 295.938)
+Particula (71.25, 326.779)
+
+Tiempo 3.875
+t=3.875 -> Choque con pared vertical
+t=3.875 -> Choque con pared horizontal
+Particula (0, 0.43875)
+Particula (180, 294.715)
+Particula (69, 324.72)
+
+Tiempo 3.9
+t=3.9 -> Choque con pared vertical
+t=3.9 -> Choque con pared horizontal
+Particula (1.75, -2.55563)
+Particula (179.643, 293.497)
+Particula (66.75, 322.666)
+
+Tiempo 3.925
+t=3.925 -> Choque con pared vertical
+t=3.925 -> Choque con pared horizontal
+Particula (0, 0.444375)
+Particula (179.286, 292.285)
+Particula (64.5, 320.618)
+
+Tiempo 3.95
+t=3.95 -> Choque con pared vertical
+t=3.95 -> Choque con pared horizontal
+Particula (1.75, -2.55)
+Particula (178.929, 291.079)
+Particula (62.25, 318.575)
+
+Tiempo 3.975
+t=3.975 -> Choque con pared vertical
+t=3.975 -> Choque con pared horizontal
+Particula (0, 0.45)
+Particula (178.571, 289.878)
+Particula (60, 316.538)
+
+Tiempo 4
+t=4 -> Choque con pared vertical
+t=4 -> Choque con pared horizontal
+Particula (1.75, -2.54438)
+Particula (178.214, 288.683)
+Particula (57.75, 314.507)
+
+Tiempo 4.025
+t=4.025 -> Choque con pared vertical
+t=4.025 -> Choque con pared horizontal
+Particula (0, 0.455625)
+Particula (177.857, 287.494)
+Particula (55.5, 312.481)
+
+Tiempo 4.05
+t=4.05 -> Choque con pared vertical
+t=4.05 -> Choque con pared horizontal
+Particula (1.75, -2.53875)
+Particula (177.5, 286.31)
+Particula (53.25, 310.461)
+
+Tiempo 4.075
+t=4.075 -> Choque con pared vertical
+t=4.075 -> Choque con pared horizontal
+Particula (0, 0.46125)
+Particula (177.143, 285.132)
+Particula (51, 308.446)
+
+Tiempo 4.1
+t=4.1 -> Choque con pared vertical
+t=4.1 -> Choque con pared horizontal
+Particula (1.75, -2.53313)
+Particula (176.786, 283.959)
+Particula (48.75, 306.437)
+
+Tiempo 4.125
+t=4.125 -> Choque con pared vertical
+t=4.125 -> Choque con pared horizontal
+Particula (0, 0.466875)
+Particula (176.429, 282.792)
+Particula (46.5, 304.434)
+
+Tiempo 4.15
+t=4.15 -> Choque con pared vertical
+t=4.15 -> Choque con pared horizontal
+Particula (1.75, -2.5275)
+Particula (176.071, 281.631)
+Particula (44.25, 302.436)
+
+Tiempo 4.175
+t=4.175 -> Choque con pared vertical
+t=4.175 -> Choque con pared horizontal
+Particula (0, 0.4725)
+Particula (175.714, 280.475)
+Particula (42, 300.444)
+
+Tiempo 4.2
+t=4.2 -> Choque con pared vertical
+t=4.2 -> Choque con pared horizontal
+Particula (1.75, -2.52188)
+Particula (175.357, 279.325)
+Particula (39.75, 298.458)
+
+Tiempo 4.225
+t=4.225 -> Choque con pared vertical
+t=4.225 -> Choque con pared horizontal
+Particula (0, 0.478125)
+Particula (175, 278.181)
+Particula (37.5, 296.477)
+
+Tiempo 4.25
+t=4.25 -> Choque con pared vertical
+t=4.25 -> Choque con pared horizontal
+Particula (1.75, -2.51625)
+Particula (174.643, 277.042)
+Particula (35.25, 294.502)
+
+Tiempo 4.275
+t=4.275 -> Choque con pared vertical
+t=4.275 -> Choque con pared horizontal
+Particula (0, 0.48375)
+Particula (174.286, 275.909)
+Particula (33, 292.533)
+
+Tiempo 4.3
+t=4.3 -> Choque con pared vertical
+t=4.3 -> Choque con pared horizontal
+Particula (1.75, -2.51063)
+Particula (173.929, 274.781)
+Particula (30.75, 290.569)
+
+Tiempo 4.325
+t=4.325 -> Choque con pared vertical
+t=4.325 -> Choque con pared horizontal
+Particula (0, 0.489375)
+Particula (173.571, 273.659)
+Particula (28.5, 288.611)
+
+Tiempo 4.35
+t=4.35 -> Choque con pared vertical
+t=4.35 -> Choque con pared horizontal
+Particula (1.75, -2.505)
+Particula (173.214, 272.543)
+Particula (26.25, 286.658)
+
+Tiempo 4.375
+t=4.375 -> Choque con pared vertical
+t=4.375 -> Choque con pared horizontal
+Particula (0, 0.495)
+Particula (172.857, 271.432)
+Particula (24, 284.711)
+
+Tiempo 4.4
+t=4.4 -> Choque con pared vertical
+t=4.4 -> Choque con pared horizontal
+Particula (1.75, -2.49938)
+Particula (172.5, 270.327)
+Particula (21.75, 282.77)
+
+Tiempo 4.425
+t=4.425 -> Choque con pared vertical
+t=4.425 -> Choque con pared horizontal
+Particula (0, 0.500625)
+Particula (172.143, 269.228)
+Particula (19.5, 280.834)
+
+Tiempo 4.45
+t=4.45 -> Choque con pared vertical
+t=4.45 -> Choque con pared horizontal
+Particula (1.75, -2.49375)
+Particula (171.786, 268.134)
+Particula (17.25, 278.904)
+
+Tiempo 4.475
+t=4.475 -> Choque con pared vertical
+t=4.475 -> Choque con pared horizontal
+Particula (0, 0.50625)
+Particula (171.429, 267.046)
+Particula (15, 276.979)
+
+Tiempo 4.5
+t=4.5 -> Choque con pared vertical
+t=4.5 -> Choque con pared horizontal
+Particula (1.75, -2.48813)
+Particula (171.071, 265.963)
+Particula (12.75, 275.06)
+
+Tiempo 4.525
+t=4.525 -> Choque con pared vertical
+t=4.525 -> Choque con pared horizontal
+Particula (0, 0.511875)
+Particula (170.714, 264.886)
+Particula (10.5, 273.147)
+
+Tiempo 4.55
+t=4.55 -> Choque con pared vertical
+t=4.55 -> Choque con pared horizontal
+Particula (1.75, -2.4825)
+Particula (170.357, 263.815)
+t=4.55 -> Choque con pared vertical
+Particula (8.25, 271.239)
+
+Tiempo 4.575
+t=4.575 -> Choque con pared vertical
+t=4.575 -> Choque con pared horizontal
+Particula (0, 0.5175)
+Particula (170, 262.749)
+Particula (10.5, 269.337)
+
+Tiempo 4.6
+t=4.6 -> Choque con pared vertical
+t=4.6 -> Choque con pared horizontal
+Particula (1.75, -2.47688)
+Particula (169.643, 261.689)
+Particula (12.75, 267.441)
+
+Tiempo 4.625
+t=4.625 -> Choque con pared vertical
+t=4.625 -> Choque con pared horizontal
+Particula (0, 0.523125)
+Particula (169.286, 260.634)
+Particula (15, 265.55)
+
+Tiempo 4.65
+t=4.65 -> Choque con pared vertical
+t=4.65 -> Choque con pared horizontal
+Particula (1.75, -2.47125)
+Particula (168.929, 259.586)
+Particula (17.25, 263.665)
+
+Tiempo 4.675
+t=4.675 -> Choque con pared vertical
+t=4.675 -> Choque con pared horizontal
+Particula (0, 0.52875)
+Particula (168.571, 258.542)
+Particula (19.5, 261.786)
+
+Tiempo 4.7
+t=4.7 -> Choque con pared vertical
+t=4.7 -> Choque con pared horizontal
+Particula (1.75, -2.46563)
+Particula (168.214, 257.505)
+Particula (21.75, 259.912)
+
+Tiempo 4.725
+t=4.725 -> Choque con pared vertical
+t=4.725 -> Choque con pared horizontal
+Particula (0, 0.534375)
+Particula (167.857, 256.473)
+Particula (24, 258.044)
+
+Tiempo 4.75
+t=4.75 -> Choque con pared vertical
+t=4.75 -> Choque con pared horizontal
+Particula (1.75, -2.46)
+Particula (167.5, 255.447)
+Particula (26.25, 256.181)
+
+Tiempo 4.775
+t=4.775 -> Choque con pared vertical
+t=4.775 -> Choque con pared horizontal
+Particula (0, 0.54)
+Particula (167.143, 254.426)
+Particula (28.5, 254.324)
+
+Tiempo 4.8
+t=4.8 -> Choque con pared vertical
+t=4.8 -> Choque con pared horizontal
+Particula (1.75, -2.45438)
+Particula (166.786, 253.411)
+Particula (30.75, 252.473)
+
+Tiempo 4.825
+t=4.825 -> Choque con pared vertical
+t=4.825 -> Choque con pared horizontal
+Particula (0, 0.545625)
+Particula (166.429, 252.401)
+Particula (33, 250.627)
+
+Tiempo 4.85
+t=4.85 -> Choque con pared vertical
+t=4.85 -> Choque con pared horizontal
+Particula (1.75, -2.44875)
+Particula (166.071, 251.397)
+Particula (35.25, 248.787)
+
+Tiempo 4.875
+t=4.875 -> Choque con pared vertical
+t=4.875 -> Choque con pared horizontal
+Particula (0, 0.55125)
+Particula (165.714, 250.399)
+Particula (37.5, 246.952)
+
+Tiempo 4.9
+t=4.9 -> Choque con pared vertical
+t=4.9 -> Choque con pared horizontal
+Particula (1.75, -2.44313)
+Particula (165.357, 249.407)
+Particula (39.75, 245.123)
+
+Tiempo 4.925
+t=4.925 -> Choque con pared vertical
+t=4.925 -> Choque con pared horizontal
+Particula (0, 0.556875)
+Particula (165, 248.42)
+Particula (42, 243.3)
+
+Tiempo 4.95
+t=4.95 -> Choque con pared vertical
+t=4.95 -> Choque con pared horizontal
+Particula (1.75, -2.4375)
+Particula (164.643, 247.438)
+Particula (44.25, 241.482)
+
+Tiempo 4.975
+t=4.975 -> Choque con pared vertical
+t=4.975 -> Choque con pared horizontal
+Particula (0, 0.5625)
+Particula (164.286, 246.463)
+Particula (46.5, 239.67)
+
+Tiempo 5
+t=5 -> Choque con pared vertical
+t=5 -> Choque con pared horizontal
+Particula (1.75, -2.43188)
+Particula (163.929, 245.493)
+Particula (48.75, 237.864)
+
+Tiempo 5.025
+t=5.025 -> Choque con pared vertical
+t=5.025 -> Choque con pared horizontal
+Particula (0, 0.568125)
+Particula (163.571, 244.528)
+Particula (51, 236.063)
+
+Tiempo 5.05
+t=5.05 -> Choque con pared vertical
+t=5.05 -> Choque con pared horizontal
+Particula (1.75, -2.42625)
+Particula (163.214, 243.569)
+Particula (53.25, 234.268)
+
+Tiempo 5.075
+t=5.075 -> Choque con pared vertical
+t=5.075 -> Choque con pared horizontal
+Particula (0, 0.57375)
+Particula (162.857, 242.616)
+Particula (55.5, 232.479)
+
+Tiempo 5.1
+t=5.1 -> Choque con pared vertical
+t=5.1 -> Choque con pared horizontal
+Particula (1.75, -2.42063)
+Particula (162.5, 241.669)
+Particula (57.75, 230.695)
+
+Tiempo 5.125
+t=5.125 -> Choque con pared vertical
+t=5.125 -> Choque con pared horizontal
+Particula (0, 0.579375)
+Particula (162.143, 240.727)
+Particula (60, 228.917)
+
+Tiempo 5.15
+t=5.15 -> Choque con pared vertical
+t=5.15 -> Choque con pared horizontal
+Particula (1.75, -2.415)
+Particula (161.786, 239.79)
+Particula (62.25, 227.144)
+
+Tiempo 5.175
+t=5.175 -> Choque con pared vertical
+t=5.175 -> Choque con pared horizontal
+Particula (0, 0.585)
+Particula (161.429, 238.86)
+Particula (64.5, 225.377)
+
+Tiempo 5.2
+t=5.2 -> Choque con pared vertical
+t=5.2 -> Choque con pared horizontal
+Particula (1.75, -2.40938)
+Particula (161.071, 237.934)
+Particula (66.75, 223.616)
+
+Tiempo 5.225
+t=5.225 -> Choque con pared vertical
+t=5.225 -> Choque con pared horizontal
+Particula (0, 0.590625)
+Particula (160.714, 237.015)
+Particula (69, 221.86)
+
+Tiempo 5.25
+t=5.25 -> Choque con pared vertical
+t=5.25 -> Choque con pared horizontal
+Particula (1.75, -2.40375)
+Particula (160.357, 236.101)
+Particula (71.25, 220.11)
+
+Tiempo 5.275
+t=5.275 -> Choque con pared vertical
+t=5.275 -> Choque con pared horizontal
+Particula (0, 0.59625)
+Particula (160, 235.193)
+Particula (73.5, 218.365)
+
+Tiempo 5.3
+t=5.3 -> Choque con pared vertical
+t=5.3 -> Choque con pared horizontal
+Particula (1.75, -2.39813)
+Particula (159.643, 234.29)
+Particula (75.75, 216.626)
+
+Tiempo 5.325
+t=5.325 -> Choque con pared vertical
+t=5.325 -> Choque con pared horizontal
+Particula (0, 0.601875)
+Particula (159.286, 233.393)
+Particula (78, 214.893)
+
+Tiempo 5.35
+t=5.35 -> Choque con pared vertical
+t=5.35 -> Choque con pared horizontal
+Particula (1.75, -2.3925)
+Particula (158.929, 232.502)
+Particula (80.25, 213.166)
+
+Tiempo 5.375
+t=5.375 -> Choque con pared vertical
+t=5.375 -> Choque con pared horizontal
+Particula (0, 0.6075)
+Particula (158.571, 231.616)
+Particula (82.5, 211.444)
+
+Tiempo 5.4
+t=5.4 -> Choque con pared vertical
+t=5.4 -> Choque con pared horizontal
+Particula (1.75, -2.38688)
+Particula (158.214, 230.736)
+Particula (84.75, 209.727)
+
+Tiempo 5.425
+t=5.425 -> Choque con pared vertical
+t=5.425 -> Choque con pared horizontal
+Particula (0, 0.613125)
+Particula (157.857, 229.862)
+Particula (87, 208.016)
+
+Tiempo 5.45
+t=5.45 -> Choque con pared vertical
+t=5.45 -> Choque con pared horizontal
+Particula (1.75, -2.38125)
+Particula (157.5, 228.993)
+Particula (89.25, 206.311)
+
+Tiempo 5.475
+t=5.475 -> Choque con pared vertical
+t=5.475 -> Choque con pared horizontal
+Particula (0, 0.61875)
+Particula (157.143, 228.13)
+Particula (91.5, 204.612)
+
+Tiempo 5.5
+t=5.5 -> Choque con pared vertical
+t=5.5 -> Choque con pared horizontal
+Particula (1.75, -2.37563)
+Particula (156.786, 227.272)
+Particula (93.75, 202.918)
+
+Tiempo 5.525
+t=5.525 -> Choque con pared vertical
+t=5.525 -> Choque con pared horizontal
+Particula (0, 0.624375)
+Particula (156.429, 226.42)
+Particula (96, 201.23)
+
+Tiempo 5.55
+t=5.55 -> Choque con pared vertical
+t=5.55 -> Choque con pared horizontal
+Particula (1.75, -2.37)
+Particula (156.071, 225.574)
+Particula (98.25, 199.547)
+
+Tiempo 5.575
+t=5.575 -> Choque con pared vertical
+t=5.575 -> Choque con pared horizontal
+Particula (0, 0.63)
+Particula (155.714, 224.733)
+Particula (100.5, 197.87)
+
+Tiempo 5.6
+t=5.6 -> Choque con pared vertical
+t=5.6 -> Choque con pared horizontal
+Particula (1.75, -2.36438)
+Particula (155.357, 223.898)
+Particula (102.75, 196.199)
+
+Tiempo 5.625
+t=5.625 -> Choque con pared vertical
+t=5.625 -> Choque con pared horizontal
+Particula (0, 0.635625)
+Particula (155, 223.069)
+Particula (105, 194.533)
+
+Tiempo 5.65
+t=5.65 -> Choque con pared vertical
+t=5.65 -> Choque con pared horizontal
+Particula (1.75, -2.35875)
+Particula (154.643, 222.245)
+Particula (107.25, 192.873)
+
+Tiempo 5.675
+t=5.675 -> Choque con pared vertical
+t=5.675 -> Choque con pared horizontal
+Particula (0, 0.64125)
+Particula (154.286, 221.427)
+Particula (109.5, 191.218)
+
+Tiempo 5.7
+t=5.7 -> Choque con pared vertical
+t=5.7 -> Choque con pared horizontal
+Particula (1.75, -2.35313)
+Particula (153.929, 220.614)
+Particula (111.75, 189.569)
+
+Tiempo 5.725
+t=5.725 -> Choque con pared vertical
+t=5.725 -> Choque con pared horizontal
+Particula (0, 0.646875)
+Particula (153.571, 219.807)
+Particula (114, 187.926)
+
+Tiempo 5.75
+t=5.75 -> Choque con pared vertical
+t=5.75 -> Choque con pared horizontal
+Particula (1.75, -2.3475)
+Particula (153.214, 219.006)
+Particula (116.25, 186.288)
+
+Tiempo 5.775
+t=5.775 -> Choque con pared vertical
+t=5.775 -> Choque con pared horizontal
+Particula (0, 0.6525)
+Particula (152.857, 218.21)
+Particula (118.5, 184.656)
+
+Tiempo 5.8
+t=5.8 -> Choque con pared vertical
+t=5.8 -> Choque con pared horizontal
+Particula (1.75, -2.34188)
+Particula (152.5, 217.42)
+Particula (120.75, 183.03)
+
+Tiempo 5.825
+t=5.825 -> Choque con pared vertical
+t=5.825 -> Choque con pared horizontal
+Particula (0, 0.658125)
+Particula (152.143, 216.636)
+Particula (123, 181.409)
+
+Tiempo 5.85
+t=5.85 -> Choque con pared vertical
+t=5.85 -> Choque con pared horizontal
+Particula (1.75, -2.33625)
+Particula (151.786, 215.857)
+Particula (125.25, 179.794)
+
+Tiempo 5.875
+t=5.875 -> Choque con pared vertical
+t=5.875 -> Choque con pared horizontal
+Particula (0, 0.66375)
+Particula (151.429, 215.083)
+Particula (127.5, 178.185)
+
+Tiempo 5.9
+t=5.9 -> Choque con pared vertical
+t=5.9 -> Choque con pared horizontal
+Particula (1.75, -2.33063)
+Particula (151.071, 214.316)
+Particula (129.75, 176.581)
+
+Tiempo 5.925
+t=5.925 -> Choque con pared vertical
+t=5.925 -> Choque con pared horizontal
+Particula (0, 0.669375)
+Particula (150.714, 213.554)
+Particula (132, 174.983)
+
+Tiempo 5.95
+t=5.95 -> Choque con pared vertical
+t=5.95 -> Choque con pared horizontal
+Particula (1.75, -2.325)
+Particula (150.357, 212.798)
+Particula (134.25, 173.39)
+
+Tiempo 5.975
+t=5.975 -> Choque con pared vertical
+t=5.975 -> Choque con pared horizontal
+Particula (0, 0.675)
+Particula (150, 212.047)
+Particula (136.5, 171.803)
+
+Tiempo 6
+t=6 -> Choque con pared vertical
+t=6 -> Choque con pared horizontal
+Particula (1.75, -2.31938)
+Particula (149.643, 211.302)
+Particula (138.75, 170.222)
+
+Tiempo 6.025
+t=6.025 -> Choque con pared vertical
+t=6.025 -> Choque con pared horizontal
+Particula (0, 0.680625)
+Particula (149.286, 210.562)
+Particula (141, 168.646)
+
+Tiempo 6.05
+t=6.05 -> Choque con pared vertical
+t=6.05 -> Choque con pared horizontal
+Particula (1.75, -2.31375)
+Particula (148.929, 209.829)
+Particula (143.25, 167.076)
+
+Tiempo 6.075
+t=6.075 -> Choque con pared vertical
+t=6.075 -> Choque con pared horizontal
+Particula (0, 0.68625)
+Particula (148.571, 209.1)
+Particula (145.5, 165.511)
+
+Tiempo 6.1
+t=6.1 -> Choque con pared vertical
+t=6.1 -> Choque con pared horizontal
+Particula (1.75, -2.30813)
+Particula (148.214, 208.378)
+Particula (147.75, 163.952)
+
+Tiempo 6.125
+t=6.125 -> Choque con pared vertical
+t=6.125 -> Choque con pared horizontal
+Particula (0, 0.691875)
+Particula (147.857, 207.661)
+t=6.125 -> Colision con obstaculo cuadrado
+Particula (150, 162.399)
+
+Tiempo 6.15
+t=6.15 -> Choque con pared vertical
+t=6.15 -> Choque con pared horizontal
+Particula (1.75, -2.3025)
+Particula (147.5, 206.949)
+Particula (148.65, 160.851)
+
+Tiempo 6.175
+t=6.175 -> Choque con pared vertical
+t=6.175 -> Choque con pared horizontal
+Particula (0, 0.6975)
+Particula (147.143, 206.244)
+Particula (147.3, 159.309)
+
+Tiempo 6.2
+t=6.2 -> Choque con pared vertical
+t=6.2 -> Choque con pared horizontal
+Particula (1.75, -2.29688)
+Particula (146.786, 205.544)
+Particula (145.95, 157.773)
+
+Tiempo 6.225
+t=6.225 -> Choque con pared vertical
+t=6.225 -> Choque con pared horizontal
+Particula (0, 0.703125)
+Particula (146.429, 204.849)
+Particula (144.6, 156.242)
+
+Tiempo 6.25
+t=6.25 -> Choque con pared vertical
+t=6.25 -> Choque con pared horizontal
+Particula (1.75, -2.29125)
+Particula (146.071, 204.16)
+Particula (143.25, 154.717)
+
+Tiempo 6.275
+t=6.275 -> Choque con pared vertical
+t=6.275 -> Choque con pared horizontal
+Particula (0, 0.70875)
+Particula (145.714, 203.477)
+Particula (141.9, 153.198)
+
+Tiempo 6.3
+t=6.3 -> Choque con pared vertical
+t=6.3 -> Choque con pared horizontal
+Particula (1.75, -2.28563)
+Particula (145.357, 202.8)
+Particula (140.55, 151.684)
+
+Tiempo 6.325
+t=6.325 -> Choque con pared vertical
+t=6.325 -> Choque con pared horizontal
+Particula (0, 0.714375)
+Particula (145, 202.128)
+Particula (139.2, 150.176)
+
+Tiempo 6.35
+t=6.35 -> Choque con pared vertical
+t=6.35 -> Choque con pared horizontal
+Particula (1.75, -2.28)
+Particula (144.643, 201.461)
+Particula (137.85, 148.673)
+
+Tiempo 6.375
+t=6.375 -> Choque con pared vertical
+t=6.375 -> Choque con pared horizontal
+Particula (0, 0.72)
+Particula (144.286, 200.801)
+Particula (136.5, 147.176)
+
+Tiempo 6.4
+t=6.4 -> Choque con pared vertical
+t=6.4 -> Choque con pared horizontal
+Particula (1.75, -2.27438)
+Particula (143.929, 200.146)
+Particula (135.15, 145.685)
+
+Tiempo 6.425
+t=6.425 -> Choque con pared vertical
+t=6.425 -> Choque con pared horizontal
+Particula (0, 0.725625)
+Particula (143.571, 199.496)
+Particula (133.8, 144.199)
+
+Tiempo 6.45
+t=6.45 -> Choque con pared vertical
+t=6.45 -> Choque con pared horizontal
+Particula (1.75, -2.26875)
+Particula (143.214, 198.852)
+Particula (132.45, 142.719)
+
+Tiempo 6.475
+t=6.475 -> Choque con pared vertical
+t=6.475 -> Choque con pared horizontal
+Particula (0, 0.73125)
+Particula (142.857, 198.214)
+Particula (131.1, 141.244)
+
+Tiempo 6.5
+t=6.5 -> Choque con pared vertical
+t=6.5 -> Choque con pared horizontal
+Particula (1.75, -2.26313)
+Particula (142.5, 197.581)
+Particula (129.75, 139.775)
+
+Tiempo 6.525
+t=6.525 -> Choque con pared vertical
+t=6.525 -> Choque con pared horizontal
+Particula (0, 0.736875)
+Particula (142.143, 196.955)
+Particula (128.4, 138.312)
+
+Tiempo 6.55
+t=6.55 -> Choque con pared vertical
+t=6.55 -> Choque con pared horizontal
+Particula (1.75, -2.2575)
+Particula (141.786, 196.333)
+Particula (127.05, 136.854)
+
+Tiempo 6.575
+t=6.575 -> Choque con pared vertical
+t=6.575 -> Choque con pared horizontal
+Particula (0, 0.7425)
+Particula (141.429, 195.717)
+Particula (125.7, 135.402)
+
+Tiempo 6.6
+t=6.6 -> Choque con pared vertical
+t=6.6 -> Choque con pared horizontal
+Particula (1.75, -2.25188)
+Particula (141.071, 195.107)
+Particula (124.35, 133.956)
+
+Tiempo 6.625
+t=6.625 -> Choque con pared vertical
+t=6.625 -> Choque con pared horizontal
+Particula (0, 0.748125)
+Particula (140.714, 194.503)
+Particula (123, 132.515)
+
+Tiempo 6.65
+t=6.65 -> Choque con pared vertical
+t=6.65 -> Choque con pared horizontal
+Particula (1.75, -2.24625)
+Particula (140.357, 193.904)
+Particula (121.65, 131.08)
+
+Tiempo 6.675
+t=6.675 -> Choque con pared vertical
+t=6.675 -> Choque con pared horizontal
+Particula (0, 0.75375)
+Particula (140, 193.311)
+Particula (120.3, 129.651)
+
+Tiempo 6.7
+t=6.7 -> Choque con pared vertical
+t=6.7 -> Choque con pared horizontal
+Particula (1.75, -2.24063)
+Particula (139.643, 192.723)
+Particula (118.95, 128.227)
+
+Tiempo 6.725
+t=6.725 -> Choque con pared vertical
+t=6.725 -> Choque con pared horizontal
+Particula (0, 0.759375)
+Particula (139.286, 192.141)
+Particula (117.6, 126.809)
+
+Tiempo 6.75
+t=6.75 -> Choque con pared vertical
+t=6.75 -> Choque con pared horizontal
+Particula (1.75, -2.235)
+Particula (138.929, 191.565)
+Particula (116.25, 125.396)
+
+Tiempo 6.775
+t=6.775 -> Choque con pared vertical
+t=6.775 -> Choque con pared horizontal
+Particula (0, 0.765)
+Particula (138.571, 190.994)
+Particula (114.9, 123.989)
+
+Tiempo 6.8
+t=6.8 -> Choque con pared vertical
+t=6.8 -> Choque con pared horizontal
+Particula (1.75, -2.22938)
+Particula (138.214, 190.429)
+Particula (113.55, 122.588)
+
+Tiempo 6.825
+t=6.825 -> Choque con pared vertical
+t=6.825 -> Choque con pared horizontal
+Particula (0, 0.770625)
+Particula (137.857, 189.87)
+Particula (112.2, 121.192)
+
+Tiempo 6.85
+t=6.85 -> Choque con pared vertical
+t=6.85 -> Choque con pared horizontal
+Particula (1.75, -2.22375)
+Particula (137.5, 189.316)
+Particula (110.85, 119.802)
+
+Tiempo 6.875
+t=6.875 -> Choque con pared vertical
+t=6.875 -> Choque con pared horizontal
+Particula (0, 0.77625)
+Particula (137.143, 188.768)
+Particula (109.5, 118.417)
+
+Tiempo 6.9
+t=6.9 -> Choque con pared vertical
+t=6.9 -> Choque con pared horizontal
+Particula (1.75, -2.21813)
+Particula (136.786, 188.225)
+Particula (108.15, 117.038)
+
+Tiempo 6.925
+t=6.925 -> Choque con pared vertical
+t=6.925 -> Choque con pared horizontal
+Particula (0, 0.781875)
+Particula (136.429, 187.688)
+Particula (106.8, 115.665)
+
+Tiempo 6.95
+t=6.95 -> Choque con pared vertical
+t=6.95 -> Choque con pared horizontal
+Particula (1.75, -2.2125)
+Particula (136.071, 187.157)
+Particula (105.45, 114.297)
+
+Tiempo 6.975
+t=6.975 -> Choque con pared vertical
+t=6.975 -> Choque con pared horizontal
+Particula (0, 0.7875)
+Particula (135.714, 186.631)
+Particula (104.1, 112.935)
+
+Tiempo 7
+t=7 -> Choque con pared vertical
+t=7 -> Choque con pared horizontal
+Particula (1.75, -2.20688)
+Particula (135.357, 186.111)
+Particula (102.75, 111.579)
+
+Tiempo 7.025
+t=7.025 -> Choque con pared vertical
+t=7.025 -> Choque con pared horizontal
+Particula (0, 0.793125)
+Particula (135, 185.597)
+Particula (101.4, 110.228)
+
+Tiempo 7.05
+t=7.05 -> Choque con pared vertical
+t=7.05 -> Choque con pared horizontal
+Particula (1.75, -2.20125)
+Particula (134.643, 185.088)
+Particula (100.05, 108.883)
+
+Tiempo 7.075
+t=7.075 -> Choque con pared vertical
+t=7.075 -> Choque con pared horizontal
+Particula (0, 0.79875)
+Particula (134.286, 184.585)
+Particula (98.7, 107.544)
+
+Tiempo 7.1
+t=7.1 -> Choque con pared vertical
+t=7.1 -> Choque con pared horizontal
+Particula (1.75, -2.19563)
+Particula (133.929, 184.087)
+Particula (97.35, 106.21)
+
+Tiempo 7.125
+t=7.125 -> Choque con pared vertical
+t=7.125 -> Choque con pared horizontal
+Particula (0, 0.804375)
+Particula (133.571, 183.595)
+Particula (96, 104.882)
+
+Tiempo 7.15
+t=7.15 -> Choque con pared vertical
+t=7.15 -> Choque con pared horizontal
+Particula (1.75, -2.19)
+Particula (133.214, 183.109)
+Particula (94.65, 103.559)
+
+Tiempo 7.175
+t=7.175 -> Choque con pared vertical
+t=7.175 -> Choque con pared horizontal
+Particula (0, 0.81)
+Particula (132.857, 182.628)
+Particula (93.3, 102.242)
+
+Tiempo 7.2
+t=7.2 -> Choque con pared vertical
+t=7.2 -> Choque con pared horizontal
+Particula (1.75, -2.18438)
+Particula (132.5, 182.153)
+Particula (91.95, 100.931)
+
+Tiempo 7.225
+t=7.225 -> Choque con pared vertical
+t=7.225 -> Choque con pared horizontal
+Particula (0, 0.815625)
+Particula (132.143, 181.683)
+Particula (90.6, 99.6249)
+
+Tiempo 7.25
+t=7.25 -> Choque con pared vertical
+t=7.25 -> Choque con pared horizontal
+Particula (1.75, -2.17875)
+Particula (131.786, 181.22)
+Particula (89.25, 98.3247)
+
+Tiempo 7.275
+t=7.275 -> Choque con pared vertical
+t=7.275 -> Choque con pared horizontal
+Particula (0, 0.82125)
+Particula (131.429, 180.761)
+Particula (87.9, 97.0302)
+
+Tiempo 7.3
+t=7.3 -> Choque con pared vertical
+t=7.3 -> Choque con pared horizontal
+Particula (1.75, -2.17313)
+Particula (131.071, 180.309)
+Particula (86.55, 95.7414)
+
+Tiempo 7.325
+t=7.325 -> Choque con pared vertical
+t=7.325 -> Choque con pared horizontal
+Particula (0, 0.826875)
+Particula (130.714, 179.862)
+Particula (85.2, 94.4581)
+
+Tiempo 7.35
+t=7.35 -> Choque con pared vertical
+t=7.35 -> Choque con pared horizontal
+Particula (1.75, -2.1675)
+Particula (130.357, 179.421)
+Particula (83.85, 93.1805)
+
+Tiempo 7.375
+t=7.375 -> Choque con pared vertical
+t=7.375 -> Choque con pared horizontal
+Particula (0, 0.8325)
+Particula (130, 178.985)
+Particula (82.5, 91.9085)
+
+Tiempo 7.4
+t=7.4 -> Choque con pared vertical
+t=7.4 -> Choque con pared horizontal
+Particula (1.75, -2.16188)
+Particula (129.643, 178.555)
+Particula (81.15, 90.6421)
+
+Tiempo 7.425
+t=7.425 -> Choque con pared vertical
+t=7.425 -> Choque con pared horizontal
+Particula (0, 0.838125)
+Particula (129.286, 178.13)
+Particula (79.8, 89.3814)
+
+Tiempo 7.45
+t=7.45 -> Choque con pared vertical
+t=7.45 -> Choque con pared horizontal
+Particula (1.75, -2.15625)
+Particula (128.929, 177.712)
+Particula (78.45, 88.1262)
+
+Tiempo 7.475
+t=7.475 -> Choque con pared vertical
+t=7.475 -> Choque con pared horizontal
+Particula (0, 0.84375)
+Particula (128.571, 177.298)
+Particula (77.1, 86.8767)
+
+Tiempo 7.5
+t=7.5 -> Choque con pared vertical
+t=7.5 -> Choque con pared horizontal
+Particula (1.75, -2.15063)
+Particula (128.214, 176.891)
+Particula (75.75, 85.6329)
+
+Tiempo 7.525
+t=7.525 -> Choque con pared vertical
+t=7.525 -> Choque con pared horizontal
+Particula (0, 0.849375)
+Particula (127.857, 176.489)
+Particula (74.4, 84.3946)
+
+Tiempo 7.55
+t=7.55 -> Choque con pared vertical
+t=7.55 -> Choque con pared horizontal
+Particula (1.75, -2.145)
+Particula (127.5, 176.092)
+Particula (73.05, 83.162)
+
+Tiempo 7.575
+t=7.575 -> Choque con pared vertical
+t=7.575 -> Choque con pared horizontal
+Particula (0, 0.855)
+Particula (127.143, 175.702)
+Particula (71.7, 81.935)
+
+Tiempo 7.6
+t=7.6 -> Choque con pared vertical
+t=7.6 -> Choque con pared horizontal
+Particula (1.75, -2.13938)
+Particula (126.786, 175.317)
+Particula (70.35, 80.7136)
+
+Tiempo 7.625
+t=7.625 -> Choque con pared vertical
+t=7.625 -> Choque con pared horizontal
+Particula (0, 0.860625)
+Particula (126.429, 174.937)
+Particula (69, 79.4979)
+
+Tiempo 7.65
+t=7.65 -> Choque con pared vertical
+t=7.65 -> Choque con pared horizontal
+Particula (1.75, -2.13375)
+Particula (126.071, 174.563)
+Particula (67.65, 78.2877)
+
+Tiempo 7.675
+t=7.675 -> Choque con pared vertical
+t=7.675 -> Choque con pared horizontal
+Particula (0, 0.86625)
+Particula (125.714, 174.195)
+Particula (66.3, 77.0832)
+
+Tiempo 7.7
+t=7.7 -> Choque con pared vertical
+t=7.7 -> Choque con pared horizontal
+Particula (1.75, -2.12813)
+Particula (125.357, 173.833)
+Particula (64.95, 75.8844)
+
+Tiempo 7.725
+t=7.725 -> Choque con pared vertical
+t=7.725 -> Choque con pared horizontal
+Particula (0, 0.871875)
+Particula (125, 173.476)
+Particula (63.6, 74.6911)
+
+Tiempo 7.75
+t=7.75 -> Choque con pared vertical
+t=7.75 -> Choque con pared horizontal
+Particula (1.75, -2.1225)
+Particula (124.643, 173.124)
+Particula (62.25, 73.5035)
+
+Tiempo 7.775
+t=7.775 -> Choque con pared vertical
+t=7.775 -> Choque con pared horizontal
+Particula (0, 0.8775)
+Particula (124.286, 172.779)
+Particula (60.9, 72.3215)
+
+Tiempo 7.8
+t=7.8 -> Choque con pared vertical
+t=7.8 -> Choque con pared horizontal
+Particula (1.75, -2.11688)
+Particula (123.929, 172.439)
+Particula (59.55, 71.1451)
+
+Tiempo 7.825
+t=7.825 -> Choque con pared vertical
+t=7.825 -> Choque con pared horizontal
+Particula (0, 0.883125)
+Particula (123.571, 172.104)
+Particula (58.2, 69.9744)
+
+Tiempo 7.85
+t=7.85 -> Choque con pared vertical
+t=7.85 -> Choque con pared horizontal
+Particula (1.75, -2.11125)
+Particula (123.214, 171.775)
+Particula (56.85, 68.8092)
+
+Tiempo 7.875
+t=7.875 -> Choque con pared vertical
+t=7.875 -> Choque con pared horizontal
+Particula (0, 0.88875)
+Particula (122.857, 171.452)
+Particula (55.5, 67.6497)
+
+Tiempo 7.9
+t=7.9 -> Choque con pared vertical
+t=7.9 -> Choque con pared horizontal
+Particula (1.75, -2.10563)
+Particula (122.5, 171.134)
+Particula (54.15, 66.4959)
+
+Tiempo 7.925
+t=7.925 -> Choque con pared vertical
+t=7.925 -> Choque con pared horizontal
+Particula (0, 0.894375)
+Particula (122.143, 170.822)
+Particula (52.8, 65.3476)
+
+Tiempo 7.95
+t=7.95 -> Choque con pared vertical
+t=7.95 -> Choque con pared horizontal
+Particula (1.75, -2.1)
+Particula (121.786, 170.516)
+Particula (51.45, 64.205)
+
+Tiempo 7.975
+t=7.975 -> Choque con pared vertical
+t=7.975 -> Choque con pared horizontal
+Particula (0, 0.9)
+Particula (121.429, 170.215)
+Particula (50.1, 63.068)
+
+Tiempo 8
+t=8 -> Choque con pared vertical
+t=8 -> Choque con pared horizontal
+Particula (1.75, -2.09438)
+Particula (121.071, 169.92)
+Particula (48.75, 61.9366)
+
+Tiempo 8.025
+t=8.025 -> Choque con pared vertical
+t=8.025 -> Choque con pared horizontal
+Particula (0, 0.905625)
+Particula (120.714, 169.631)
+Particula (47.4, 60.8109)
+
+Tiempo 8.05
+t=8.05 -> Choque con pared vertical
+t=8.05 -> Choque con pared horizontal
+Particula (1.75, -2.08875)
+Particula (120.357, 169.347)
+Particula (46.05, 59.6907)
+
+Tiempo 8.075
+t=8.075 -> Choque con pared vertical
+t=8.075 -> Choque con pared horizontal
+Particula (0, 0.91125)
+Particula (120, 169.069)
+Particula (44.7, 58.5762)
+
+Tiempo 8.1
+t=8.1 -> Choque con pared vertical
+t=8.1 -> Choque con pared horizontal
+Particula (1.75, -2.08313)
+Particula (119.643, 168.796)
+Particula (43.35, 57.4674)
+
+Tiempo 8.125
+t=8.125 -> Choque con pared vertical
+t=8.125 -> Choque con pared horizontal
+Particula (0, 0.916875)
+Particula (119.286, 168.529)
+Particula (42, 56.3641)
+
+Tiempo 8.15
+t=8.15 -> Choque con pared vertical
+t=8.15 -> Choque con pared horizontal
+Particula (1.75, -2.0775)
+Particula (118.929, 168.268)
+Particula (40.65, 55.2665)
+
+Tiempo 8.175
+t=8.175 -> Choque con pared vertical
+t=8.175 -> Choque con pared horizontal
+Particula (0, 0.9225)
+Particula (118.571, 168.012)
+Particula (39.3, 54.1745)
+
+Tiempo 8.2
+t=8.2 -> Choque con pared vertical
+t=8.2 -> Choque con pared horizontal
+Particula (1.75, -2.07188)
+Particula (118.214, 167.762)
+Particula (37.95, 53.0881)
+
+Tiempo 8.225
+t=8.225 -> Choque con pared vertical
+t=8.225 -> Choque con pared horizontal
+Particula (0, 0.928125)
+Particula (117.857, 167.518)
+Particula (36.6, 52.0074)
+
+Tiempo 8.25
+t=8.25 -> Choque con pared vertical
+t=8.25 -> Choque con pared horizontal
+Particula (1.75, -2.06625)
+Particula (117.5, 167.279)
+Particula (35.25, 50.9322)
+
+Tiempo 8.275
+t=8.275 -> Choque con pared vertical
+t=8.275 -> Choque con pared horizontal
+Particula (0, 0.93375)
+Particula (117.143, 167.046)
+Particula (33.9, 49.8627)
+
+Tiempo 8.3
+t=8.3 -> Choque con pared vertical
+t=8.3 -> Choque con pared horizontal
+Particula (1.75, -2.06063)
+Particula (116.786, 166.818)
+Particula (32.55, 48.7989)
+
+Tiempo 8.325
+t=8.325 -> Choque con pared vertical
+t=8.325 -> Choque con pared horizontal
+Particula (0, 0.939375)
+Particula (116.429, 166.596)
+Particula (31.2, 47.7406)
+
+Tiempo 8.35
+t=8.35 -> Choque con pared vertical
+t=8.35 -> Choque con pared horizontal
+Particula (1.75, -2.055)
+Particula (116.071, 166.38)
+Particula (29.85, 46.688)
+
+Tiempo 8.375
+t=8.375 -> Choque con pared vertical
+t=8.375 -> Choque con pared horizontal
+Particula (0, 0.945)
+Particula (115.714, 166.169)
+Particula (28.5, 45.641)
+
+Tiempo 8.4
+t=8.4 -> Choque con pared vertical
+t=8.4 -> Choque con pared horizontal
+Particula (1.75, -2.04938)
+Particula (115.357, 165.964)
+Particula (27.15, 44.5996)
+
+Tiempo 8.425
+t=8.425 -> Choque con pared vertical
+t=8.425 -> Choque con pared horizontal
+Particula (0, 0.950625)
+Particula (115, 165.765)
+Particula (25.8, 43.5639)
+
+Tiempo 8.45
+t=8.45 -> Choque con pared vertical
+t=8.45 -> Choque con pared horizontal
+Particula (1.75, -2.04375)
+Particula (114.643, 165.571)
+Particula (24.45, 42.5337)
+
+Tiempo 8.475
+t=8.475 -> Choque con pared vertical
+t=8.475 -> Choque con pared horizontal
+Particula (0, 0.95625)
+Particula (114.286, 165.383)
+Particula (23.1, 41.5092)
+
+Tiempo 8.5
+t=8.5 -> Choque con pared vertical
+t=8.5 -> Choque con pared horizontal
+Particula (1.75, -2.03813)
+Particula (113.929, 165.2)
+Particula (21.75, 40.4904)
+
+Tiempo 8.525
+t=8.525 -> Choque con pared vertical
+t=8.525 -> Choque con pared horizontal
+Particula (0, 0.961875)
+Particula (113.571, 165.023)
+Particula (20.4, 39.4771)
+
+Tiempo 8.55
+t=8.55 -> Choque con pared vertical
+t=8.55 -> Choque con pared horizontal
+Particula (1.75, -2.0325)
+Particula (113.214, 164.852)
+Particula (19.05, 38.4695)
+
+Tiempo 8.575
+t=8.575 -> Choque con pared vertical
+t=8.575 -> Choque con pared horizontal
+Particula (0, 0.9675)
+Particula (112.857, 164.686)
+Particula (17.7, 37.4675)
+
+Tiempo 8.6
+t=8.6 -> Choque con pared vertical
+t=8.6 -> Choque con pared horizontal
+Particula (1.75, -2.02688)
+Particula (112.5, 164.526)
+Particula (16.35, 36.4711)
+
+Tiempo 8.625
+t=8.625 -> Choque con pared vertical
+t=8.625 -> Choque con pared horizontal
+Particula (0, 0.973125)
+Particula (112.143, 164.371)
+Particula (15, 35.4804)
+
+Tiempo 8.65
+t=8.65 -> Choque con pared vertical
+t=8.65 -> Choque con pared horizontal
+Particula (1.75, -2.02125)
+Particula (111.786, 164.223)
+Particula (13.65, 34.4952)
+
+Tiempo 8.675
+t=8.675 -> Choque con pared vertical
+t=8.675 -> Choque con pared horizontal
+Particula (0, 0.97875)
+Particula (111.429, 164.079)
+Particula (12.3, 33.5157)
+
+Tiempo 8.7
+t=8.7 -> Choque con pared vertical
+t=8.7 -> Choque con pared horizontal
+Particula (1.75, -2.01563)
+Particula (111.071, 163.942)
+Particula (10.95, 32.5419)
+
+Tiempo 8.725
+t=8.725 -> Choque con pared vertical
+t=8.725 -> Choque con pared horizontal
+Particula (0, 0.984375)
+Particula (110.714, 163.81)
+t=8.725 -> Choque con pared vertical
+Particula (9.6, 31.5736)
+
+Tiempo 8.75
+t=8.75 -> Choque con pared vertical
+t=8.75 -> Choque con pared horizontal
+Particula (1.75, -2.01)
+Particula (110.357, 163.684)
+Particula (10.95, 30.611)
+
+Tiempo 8.775
+t=8.775 -> Choque con pared vertical
+t=8.775 -> Choque con pared horizontal
+Particula (0, 0.99)
+Particula (110, 163.563)
+Particula (12.3, 29.654)
+
+Tiempo 8.8
+t=8.8 -> Choque con pared vertical
+t=8.8 -> Choque con pared horizontal
+Particula (1.75, -2.00438)
+Particula (109.643, 163.448)
+Particula (13.65, 28.7026)
+
+Tiempo 8.825
+t=8.825 -> Choque con pared vertical
+t=8.825 -> Choque con pared horizontal
+Particula (0, 0.995625)
+Particula (109.286, 163.338)
+Particula (15, 27.7569)
+
+Tiempo 8.85
+t=8.85 -> Choque con pared vertical
+t=8.85 -> Choque con pared horizontal
+Particula (1.75, -1.99875)
+Particula (108.929, 163.234)
+Particula (16.35, 26.8167)
+
+Tiempo 8.875
+t=8.875 -> Choque con pared vertical
+t=8.875 -> Choque con pared horizontal
+Particula (0, 1.00125)
+Particula (108.571, 163.136)
+Particula (17.7, 25.8822)
+
+Tiempo 8.9
+t=8.9 -> Choque con pared vertical
+t=8.9 -> Choque con pared horizontal
+Particula (1.75, -1.99313)
+Particula (108.214, 163.044)
+Particula (19.05, 24.9534)
+
+Tiempo 8.925
+t=8.925 -> Choque con pared vertical
+t=8.925 -> Choque con pared horizontal
+Particula (0, 1.00687)
+Particula (107.857, 162.957)
+Particula (20.4, 24.0301)
+
+Tiempo 8.95
+t=8.95 -> Choque con pared vertical
+t=8.95 -> Choque con pared horizontal
+Particula (1.75, -1.9875)
+Particula (107.5, 162.875)
+Particula (21.75, 23.1125)
+
+Tiempo 8.975
+t=8.975 -> Choque con pared vertical
+t=8.975 -> Choque con pared horizontal
+Particula (0, 1.0125)
+Particula (107.143, 162.8)
+Particula (23.1, 22.2005)
+
+Tiempo 9
+t=9 -> Choque con pared vertical
+t=9 -> Choque con pared horizontal
+Particula (1.75, -1.98188)
+Particula (106.786, 162.73)
+Particula (24.45, 21.2941)
+
+Tiempo 9.025
+t=9.025 -> Choque con pared vertical
+t=9.025 -> Choque con pared horizontal
+Particula (0, 1.01812)
+Particula (106.429, 162.665)
+Particula (25.8, 20.3934)
+
+Tiempo 9.05
+t=9.05 -> Choque con pared vertical
+t=9.05 -> Choque con pared horizontal
+Particula (1.75, -1.97625)
+Particula (106.071, 162.606)
+Particula (27.15, 19.4982)
+
+Tiempo 9.075
+t=9.075 -> Choque con pared vertical
+t=9.075 -> Choque con pared horizontal
+Particula (0, 1.02375)
+Particula (105.714, 162.553)
+Particula (28.5, 18.6087)
+
+Tiempo 9.1
+t=9.1 -> Choque con pared vertical
+t=9.1 -> Choque con pared horizontal
+Particula (1.75, -1.97063)
+Particula (105.357, 162.506)
+Particula (29.85, 17.7249)
+
+Tiempo 9.125
+t=9.125 -> Choque con pared vertical
+t=9.125 -> Choque con pared horizontal
+Particula (0, 1.02937)
+Particula (105, 162.464)
+Particula (31.2, 16.8466)
+
+Tiempo 9.15
+t=9.15 -> Choque con pared vertical
+t=9.15 -> Choque con pared horizontal
+Particula (1.75, -1.965)
+Particula (104.643, 162.427)
+Particula (32.55, 15.974)
+
+Tiempo 9.175
+t=9.175 -> Choque con pared vertical
+t=9.175 -> Choque con pared horizontal
+Particula (0, 1.035)
+Particula (104.286, 162.397)
+Particula (33.9, 15.107)
+
+Tiempo 9.2
+t=9.2 -> Choque con pared vertical
+t=9.2 -> Choque con pared horizontal
+Particula (1.75, -1.95938)
+Particula (103.929, 162.371)
+Particula (35.25, 14.2456)
+
+Tiempo 9.225
+t=9.225 -> Choque con pared vertical
+t=9.225 -> Choque con pared horizontal
+Particula (0, 1.04062)
+Particula (103.571, 162.352)
+Particula (36.6, 13.3899)
+
+Tiempo 9.25
+t=9.25 -> Choque con pared vertical
+t=9.25 -> Choque con pared horizontal
+Particula (1.75, -1.95375)
+Particula (103.214, 162.338)
+Particula (37.95, 12.5397)
+
+Tiempo 9.275
+t=9.275 -> Choque con pared vertical
+t=9.275 -> Choque con pared horizontal
+Particula (0, 1.04625)
+Particula (102.857, 162.33)
+Particula (39.3, 11.6952)
+
+Tiempo 9.3
+t=9.3 -> Choque con pared vertical
+t=9.3 -> Choque con pared horizontal
+Particula (1.75, -1.94813)
+Particula (102.5, 162.327)
+Particula (40.65, 10.8564)
+
+Tiempo 9.325
+t=9.325 -> Choque con pared vertical
+t=9.325 -> Choque con pared horizontal
+Particula (0, 1.05187)
+Particula (102.143, 162.33)
+Particula (42, 10.0231)
+
+Tiempo 9.35
+t=9.35 -> Choque con pared vertical
+t=9.35 -> Choque con pared horizontal
+Particula (1.75, -1.9425)
+Particula (101.786, 162.339)
+t=9.35 -> Choque con pared horizontal
+Particula (43.35, 9.1955)
+
+Tiempo 9.375
+t=9.375 -> Choque con pared vertical
+t=9.375 -> Choque con pared horizontal
+Particula (0, 1.0575)
+Particula (101.429, 162.353)
+Particula (44.7, 10.0287)
+
+Tiempo 9.4
+t=9.4 -> Choque con pared vertical
+t=9.4 -> Choque con pared horizontal
+Particula (1.75, -1.93688)
+Particula (101.071, 162.373)
+Particula (46.05, 10.8676)
+
+Tiempo 9.425
+t=9.425 -> Choque con pared vertical
+t=9.425 -> Choque con pared horizontal
+Particula (0, 1.06312)
+Particula (100.714, 162.399)
+Particula (47.4, 11.7121)
+
+Tiempo 9.45
+t=9.45 -> Choque con pared vertical
+t=9.45 -> Choque con pared horizontal
+Particula (1.75, -1.93125)
+Particula (100.357, 162.43)
+Particula (48.75, 12.5622)
+
+Tiempo 9.475
+t=9.475 -> Choque con pared vertical
+t=9.475 -> Choque con pared horizontal
+Particula (0, 1.06875)
+Particula (100, 162.467)
+Particula (50.1, 13.418)
+
+Tiempo 9.5
+t=9.5 -> Choque con pared vertical
+t=9.5 -> Choque con pared horizontal
+Particula (1.75, -1.92563)
+Particula (99.6429, 162.509)
+Particula (51.45, 14.2794)
+
+Tiempo 9.525
+t=9.525 -> Choque con pared vertical
+t=9.525 -> Choque con pared horizontal
+Particula (0, 1.07437)
+Particula (99.2857, 162.557)
+Particula (52.8, 15.1464)
+
+Tiempo 9.55
+t=9.55 -> Choque con pared vertical
+t=9.55 -> Choque con pared horizontal
+Particula (1.75, -1.92)
+Particula (98.9286, 162.611)
+Particula (54.15, 16.019)
+
+Tiempo 9.575
+t=9.575 -> Choque con pared vertical
+t=9.575 -> Choque con pared horizontal
+Particula (0, 1.08)
+Particula (98.5714, 162.67)
+Particula (55.5, 16.8972)
+
+Tiempo 9.6
+t=9.6 -> Choque con pared vertical
+t=9.6 -> Choque con pared horizontal
+Particula (1.75, -1.91438)
+Particula (98.2143, 162.735)
+Particula (56.85, 17.7811)
+
+Tiempo 9.625
+t=9.625 -> Choque con pared vertical
+t=9.625 -> Choque con pared horizontal
+Particula (0, 1.08562)
+Particula (97.8571, 162.806)
+Particula (58.2, 18.6706)
+
+Tiempo 9.65
+t=9.65 -> Choque con pared vertical
+t=9.65 -> Choque con pared horizontal
+Particula (1.75, -1.90875)
+Particula (97.5, 162.882)
+Particula (59.55, 19.5657)
+
+Tiempo 9.675
+t=9.675 -> Choque con pared vertical
+t=9.675 -> Choque con pared horizontal
+Particula (0, 1.09125)
+Particula (97.1429, 162.964)
+Particula (60.9, 20.4665)
+
+Tiempo 9.7
+t=9.7 -> Choque con pared vertical
+t=9.7 -> Choque con pared horizontal
+Particula (1.75, -1.90313)
+Particula (96.7857, 163.051)
+Particula (62.25, 21.3729)
+
+Tiempo 9.725
+t=9.725 -> Choque con pared vertical
+t=9.725 -> Choque con pared horizontal
+Particula (0, 1.09687)
+Particula (96.4286, 163.144)
+Particula (63.6, 22.2849)
+
+Tiempo 9.75
+t=9.75 -> Choque con pared vertical
+t=9.75 -> Choque con pared horizontal
+Particula (1.75, -1.8975)
+Particula (96.0714, 163.243)
+Particula (64.95, 23.2025)
+
+Tiempo 9.775
+t=9.775 -> Choque con pared vertical
+t=9.775 -> Choque con pared horizontal
+Particula (0, 1.1025)
+Particula (95.7143, 163.347)
+Particula (66.3, 24.1257)
+
+Tiempo 9.8
+t=9.8 -> Choque con pared vertical
+t=9.8 -> Choque con pared horizontal
+Particula (1.75, -1.89188)
+Particula (95.3571, 163.457)
+Particula (67.65, 25.0546)
+
+Tiempo 9.825
+t=9.825 -> Choque con pared vertical
+t=9.825 -> Choque con pared horizontal
+Particula (0, 1.10812)
+Particula (95, 163.573)
+Particula (69, 25.9891)
+
+Tiempo 9.85
+t=9.85 -> Choque con pared vertical
+t=9.85 -> Choque con pared horizontal
+Particula (1.75, -1.88625)
+Particula (94.6429, 163.694)
+Particula (70.35, 26.9292)
+
+Tiempo 9.875
+t=9.875 -> Choque con pared vertical
+t=9.875 -> Choque con pared horizontal
+Particula (0, 1.11375)
+Particula (94.2857, 163.821)
+Particula (71.7, 27.875)
+
+Tiempo 9.9
+t=9.9 -> Choque con pared vertical
+t=9.9 -> Choque con pared horizontal
+Particula (1.75, -1.88063)
+Particula (93.9286, 163.953)
+Particula (73.05, 28.8264)
+
+Tiempo 9.925
+t=9.925 -> Choque con pared vertical
+t=9.925 -> Choque con pared horizontal
+Particula (0, 1.11937)
+Particula (93.5714, 164.091)
+Particula (74.4, 29.7834)
+
+Tiempo 9.95
+t=9.95 -> Choque con pared vertical
+t=9.95 -> Choque con pared horizontal
+Particula (1.75, -1.875)
+Particula (93.2143, 164.235)
+Particula (75.75, 30.746)
+
+Tiempo 9.975
+t=9.975 -> Choque con pared vertical
+t=9.975 -> Choque con pared horizontal
+Particula (0, 1.125)
+Particula (92.8571, 164.384)
+Particula (77.1, 31.7142)
