@@ -7,20 +7,20 @@
 
 class Simulador {
 public:
-    double ancho, alto;   // tamaño del área en unidades lógicas
-    double c;             // coeficiente de restitución para obstaculos
+    double ancho, alto;   // tamaño del area
+    double c;             // coeficiente de restitucion para obstaculos
     double K_dano;
 
     std::vector<Particula> particulas;
     std::vector<Obstaculo> obstaculos;
-
+// tamaño del simulador
     Simulador(double ancho_ = 500, double alto_ = 350, double coef_rest = 0.6);
 
     void agregarParticula(const Particula& p);
     void limpiarParticulas();
     void agregarObstaculo(const Obstaculo& o);
 
-    // step avanza la simulación dt segundos (actualiza posiciones, colisiones)
+    // step avanza la simulacion dt segundos (actualiza posiciones, colisiones)
     void step(double dt);
 
 private:
