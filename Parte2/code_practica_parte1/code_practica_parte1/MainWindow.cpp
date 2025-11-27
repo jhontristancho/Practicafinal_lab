@@ -66,7 +66,7 @@ MainWindow::MainWindow(QWidget *parent)
 void MainWindow::onGameEnded(int winnerPlayer) {
     btnFire->setEnabled(false);
 
-    // 2. Mostrar la ventana de victoria con la opción de reiniciar
+    // 2. Mostrar la ventana de victoria con la opcion de reiniciar
     QMessageBox msgBox;
     msgBox.setWindowTitle("¡Juego Terminado!");
     msgBox.setText(QString("¡El Jugador %1 ha ganado la partida en el Turno %2!").arg(winnerPlayer).arg(turno));

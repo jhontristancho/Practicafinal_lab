@@ -134,14 +134,14 @@ void GameWidget::onTick() {
 }
 
 bool GameWidget::checkWinCondition() {
-    int aliveLeft = 0;   // Obstáculos del jugador 2 (objetivo del Jugador 2)
+    int aliveLeft = 0;   // Obstaculos del jugador 2 (objetivo del Jugador 2)
     int aliveRight = 0;  // Obstáculos del jugador 1 (objetivo del Jugador 1)
 
     double midX = sim.ancho / 2.0;
 
     for (const auto &o : sim.obstaculos) {
         if (o.estaVivo()) {
-            // Clasifica el obstáculo basado en la posición de su centro (o.x + o.lado/2.0)
+            // Clasifica el obstaculo basado en la posición de su centro (o.x + o.lado/2.0)
             if (o.x + o.lado/2.0 < midX) {
                 aliveLeft++;
             }
@@ -152,18 +152,18 @@ bool GameWidget::checkWinCondition() {
     }
 
     if (aliveRight == 0) {
-        emit gameEnded(1); // Gana el Jugador 1 si destruye todos los obstáculos de la DERECHA
+        emit gameEnded(1); // Gana el Jugador 1 si destruye todos los obstaculos de la DERECHA
         return true;
     }
     if (aliveLeft == 0) {
-        emit gameEnded(2); // Gana el Jugador 2 si destruye todos los obstáculos de la IZQUIERDA
+        emit gameEnded(2); // Gana el Jugador 2 si destruye todos los obstaculos de la IZQUIERDA
         return true;
     }
 
     return false;
 }
 
-// Implementación del método de reinicio
+// Implementación del metodo de reinicio
 
 void GameWidget::reiniciarSimulacion() {
     sim.limpiarParticulas();
@@ -204,7 +204,7 @@ void GameWidget::paintEvent(QPaintEvent *) {
     QPainter painter(this);
     painter.setRenderHint(QPainter::Antialiasing);
 
-    // calcular escala automática
+    // calcular escala automatica
     double sx = width() / sim.ancho;
     double sy = height() / sim.alto;
     double S = std::min(sx, sy);
@@ -221,7 +221,7 @@ void GameWidget::paintEvent(QPaintEvent *) {
     painter.drawRect(caja);
 
 
-    // ------- PREDICCIÓN DE TRAYECTORIA -------
+    // ------- PREDICCION DE TRAYECTORIA -------
 
 
     const double G = 9.0;
@@ -244,7 +244,7 @@ void GameWidget::paintEvent(QPaintEvent *) {
 
     for (double t = 0.0; t < 2.0; t += 0.02) {
 
-        // FÓRMULAS DE CINEMÁTICA: Posición en el tiempo t
+        // FÓRMULAS DE CINEMATICA: Posicion en el tiempo t
         double x_pred = x0 + vx0 * t;
         double y_pred = y0 + vy0 * t + 0.5 * G * t * t;
 
@@ -291,11 +291,11 @@ void GameWidget::paintEvent(QPaintEvent *) {
 
     painter.drawPixmap(c2.toRect(), cannonLTexture);
 
-    // ------- Obstáculos -------
+    // ------- Obstaculos -------
     for (auto &o : sim.obstaculos) {
         if (!o.estaVivo()) continue;
 
-        // 1. Definir el área del obstáculo en píxeles
+        // 1. Definir el area del obstaculo en pixeles
         QRectF r(o.x*S, o.y*S, o.lado*S, o.lado*S);
 
 
@@ -336,7 +336,7 @@ void GameWidget::paintEvent(QPaintEvent *) {
     }
 
 
-    // ---------------------------------------------------
+    // --------------------------------------------------
     // Dibujo del Proyectil
 
     painter.setPen(Qt::NoPen);
@@ -351,7 +351,7 @@ void GameWidget::paintEvent(QPaintEvent *) {
         }
     }
 
-    // Si no hay proyectiles activos, dibujamos una bala en el cañón del jugador actual.
+    // Si no hay proyectiles activos, dibujamos una bala en el cañon del jugador actual.
     if (!anyActiveProjectile) {
         const double DEFAULT_PARTICLE_RADIUS = 6.0;
 

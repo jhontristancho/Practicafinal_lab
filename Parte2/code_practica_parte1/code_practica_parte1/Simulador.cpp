@@ -46,7 +46,7 @@ void Simulador::colisionesObstaculos(Particula& p) {
                 continue;
             }
 
-            // Rebote inelástico: decidir según lado de choque
+            // Rebote inelástico: decidir segun lado de choque
             double dxL = fabs(p.pos.x - o.x);
             double dxR = fabs(p.pos.x - (o.x + o.lado));
             double dyT = fabs(p.pos.y - o.y);
@@ -71,7 +71,7 @@ void Simulador::colisionesParticulas() {
 
             double dist = (A.pos - B.pos).magnitude();
             if (dist <= A.radio + B.radio) {
-                // fusión simple
+                // fusion simple
                 double M = A.masa + B.masa;
                 double vxf = (A.vel.x*A.masa + B.vel.x*B.masa) / M;
                 double vyf = (A.vel.y*A.masa + B.vel.y*B.masa) / M;
