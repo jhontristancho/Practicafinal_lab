@@ -40,7 +40,7 @@ private slots:
 private:
     Simulador sim;
     QTimer timer;
-    double scale;   // pixeles por unidad física
+    double scale;   // pixeles por unidad fisica
     double tiempo_dt;
     int frames_without_projectile;
     double cannon1X, cannon1Y;
@@ -52,7 +52,7 @@ private:
     QPixmap cannonLTexture;
     QPixmap projectileTexture;
 
-    // 2. Variables para almacenar los parámetros de disparo
+    // 2. Variables para almacenar los parametros del disparo
     double currentAngle;
     double currentSpeed;
     int currentPlayer;
